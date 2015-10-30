@@ -3,33 +3,27 @@ import Relay from 'react-relay';
 const { Component, PropTypes } = React;
 const { createContainer } = Relay;
 
-class Edit extends Component {
+class SessionEditor extends Component {
     constructor(props) {
         super(props);
-        console.log('Editor', props)
     }
 
     render() {
-        console.log('EDITOR props', this.props.event);
+        console.log('EDITOR props', this.props);
         return (
             <div className="Edit">
-                <h1>{this.props.event.session.title}</h1>
+                <h1>Imma Edit You</h1>
+                <h1>{this.props.session.title}</h1>
             </div>
         );
     }
 }
 
-export default createContainer(Edit, {
+export default createContainer(SessionEditor, {
     fragments: {
-        event: () => {
-            debugger;
-            console.log('editor container', arguments);
-            return Relay.QL`
-            fragment on Event{
-                session(id: $sessionId){
+        session: (variables) => Relay.QL`
+            fragment on Session{
                     title
-                }
             }`
-
-        }    }
+    }
 });

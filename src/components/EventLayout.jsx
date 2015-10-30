@@ -14,7 +14,6 @@ class EventLayout extends Component {
     render() {
 
         const { children, eventId, location: {pathname}, event: {title} } = this.props;
-        console.log('eventlayout', this.props);
 
         return (
             <div className="EventLayout">

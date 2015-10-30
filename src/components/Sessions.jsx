@@ -10,28 +10,25 @@ class Sessions extends Component {
     }
 
     renderRow(session) {
-        const {uuid, title, speakerCount} = session;
+        const {uuid, title, speakerCount, id} = session;
         return (
             <tr key={uuid}>
                 <td>{title}</td>
                 <td>{speakerCount}</td>
                 <td>
-                    <Link to={`/events/${this.props.params.eventId}/sessions/${uuid}`}>edit</Link>
+                    <Link to={`/events/${this.props.params.eventId}/sessions/${id}`}>edit</Link>
                 </td>
             </tr>
         );
     }
 
-    shouldComponentUpdate(nextProps){
-        console.log(nextProps, this.props, nextProps === this.props);
-        return true;
-    }
-
     render() {
-        const {event: {sessions}} = this.props;
-        console.log('SessionList', this.props);
+        const {event: {sessions}, params: {sessionId}, children} = this.props;
 
-        return (
+        const rows = sessions.filter(s=> sessionId ? s.id == sessionId : true)
+            .map(this.renderRow.bind(this));
+
+        return children ? children : (
             <div className="Sessions">
                 <h1>Sessions</h1>
                 <table>
@@ -43,7 +40,7 @@ class Sessions extends Component {
                     </tr>
                     </thead>
                     <tbody>
-                    {sessions.map(this.renderRow.bind(this))}
+                    {rows}
                     </tbody>
                 </table>
             </div>
@@ -56,6 +53,7 @@ export default createContainer(Sessions, {
         event: () => Relay.QL`
             fragment on Event{
                 sessions{
+                    id
                     uuid,
                     title,
                     speakerCount

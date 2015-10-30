@@ -12,7 +12,10 @@ import ReactRouterRelay from 'react-router-relay';
 import {Route, IndexRoute} from 'react-router';
 
 const eventQueries = {
-    event: () => Relay.QL`query { event(id: $eventId) }`
+    event: (Component) => Relay.QL`query { event(id: $eventId)  }`
+};
+const sessionQueries = {
+    session: (Component) => Relay.QL`query { node(id: $sessionId)  }`
 };
 
 var App = require('./App.jsx');
@@ -36,7 +39,7 @@ export default (
 
             <Route path="details" component={EventDetails} queries={eventQueries}/>
             <Route path="sessions" component={Sessions} queries={eventQueries} >
-                <Route path=":sessionId" component={SessionEditor} queries={eventQueries}/>
+                <Route path=":sessionId" component={SessionEditor} queries={sessionQueries}/>
             </Route>
 
         </Route>
