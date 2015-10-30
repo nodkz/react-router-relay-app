@@ -42,7 +42,7 @@ module.exports = {
             'webpack-hot-middleware/client',
             './src/index'
         ],
-        vendor: ['react', 'react-addons-css-transition-group', 'react-dom', 'react-relay', 'react-router', 'history', 'moment', 'moment-duration-format']
+        vendor: ['react', 'react-addons-css-transition-group', 'react-dom', 'react-relay', 'react-router', 'react-router-relay', 'history', 'moment', 'moment-duration-format']
     },
     output: {
         path: path.join(__dirname, 'dist'),
