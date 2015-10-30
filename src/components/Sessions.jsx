@@ -16,7 +16,7 @@ class Sessions extends Component {
                 <td>{title}</td>
                 <td>{speakerCount}</td>
                 <td>
-                    <Link to={`/events/${this.props.params.eventId}/sessions/${id}`}>edit</Link>
+                    <Link to={`/events/${this.props.params.eventId}/sessions/${uuid}`}>edit</Link>
                 </td>
             </tr>
         );
