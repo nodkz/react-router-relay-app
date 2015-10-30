@@ -1,0 +1,104 @@
+input changeEventDetailsInput {
+  id: ID!
+  title: String!
+  description: String!
+  startDateUtc: moment
+  endDateUtc: moment
+  clientMutationId: String!
+}
+
+type changeEventDetailsPayload {
+  event: Event
+  clientMutationId: String!
+}
+
+input createEventInput {
+  ownerId: ID!
+  title: String!
+  description: String!
+  startDateUtc: moment
+  endDateUtc: moment
+  clientMutationId: String!
+}
+
+type createEventPayload {
+  event: Event
+  clientMutationId: String!
+}
+
+type Event implements Node {
+  id: ID!
+  uuid: ID
+  title: String
+  description: String
+  startDateUtc: moment
+  endDateUtc: moment
+  sessionCount: Int
+  session(id: ID!): Session
+  sessions(orderBy: SessionOrderField, orderDirection: OrderDirection, speakers: SpeakerStatus = any): [Session]
+  speakerCount: Int
+  speakers(orderBy: String, hasSessions: Boolean = false, hasMultipleSessions: Boolean = false): [Speaker]
+  sponsorCount: Int
+  sponsors: [Sponsor]
+}
+
+type EventDaySchema {
+  node(id: ID!): Node
+  event(id: ID!): Event
+}
+
+scalar moment
+
+type Mutations {
+  CreateEvent(input: createEventInput!): createEventPayload
+  ChangeEventDetails(input: changeEventDetailsInput!): changeEventDetailsPayload
+}
+
+interface Node {
+  id: ID!
+}
+
+enum OrderDirection {
+  Ascending
+  Descending
+}
+
+type Session implements Node {
+  id: ID!
+  uuid: ID
+  title: String
+  description: String
+  speakerCount: Int
+  speakers(exclude: [ID]): [Speaker]
+}
+
+enum SessionOrderField {
+  StartDate
+  EndDate
+  Title
+}
+
+type Speaker implements Node {
+  id: ID!
+  uuid: ID
+  firstName: String
+  lastName: String
+  fullName: String
+  sessionCount: Int
+  sessions(exclude: [ID]): [Session]
+}
+
+enum SpeakerStatus {
+  One
+  AtLeastOne
+  Many
+  None
+  Any
+}
+
+type Sponsor implements Node {
+  id: ID!
+  uuid: ID
+  name: String
+  description: String
+}

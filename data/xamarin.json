@@ -1,0 +1,2148 @@
+{
+    "details": {
+        "title": "Evolve 2014",
+        "ownerId": "00000000000000000000000000000000",
+        "startDateUtc": "2015-08-30T02:00:00-07:00",
+        "endDateUtc": "2015-08-30T10:00:00-07:00",
+        "description": "Description"
+    },
+    "speakers": [
+        {
+            "id": "7b3abd54e3f74a9d9ec928d0feac3acb",
+            "firstName": "Nat",
+            "lastName": "Friedman",
+            "shortBio": "<p>Nat Friedman, Xamarin&rsquo;s co-founder and CEO, has been writing software for 27 years and is passionate about entrepreneurship and building amazing products. Nat will cover key mobile trends and predictions, Xamarin&rsquo;s future direction, and ways for you to capitalize on mobile - the largest software market ever.</p>",
+            "bio": "<p>Nat Friedman, Xamarin&rsquo;s co-founder and CEO, has been writing software for 27 years and is passionate about entrepreneurship and building amazing products. Nat will cover key mobile trends and predictions, Xamarin&rsquo;s future direction, and ways for you to capitalize on mobile - the largest software market ever.</p>",
+            "sessions": [
+                "cecffc5c2feb448580808d1e27e295dc",
+                "1f2ee5f70aec4dd9a0413c5f7be414b1",
+                "9684939ed23c447cadbf37acf4595059"
+            ]
+        },
+        {
+            "id": "7b3424484ef6417a9d7e5e9e17a8defb",
+            "firstName": "Miguel",
+            "lastName": "de Icaza",
+            "shortBio": "<p><span>Miguel de Icaza, Xamarin&rsquo;s co-founder and CTO, has directed the Mono project since its inception and has won numerous awards including Time Magazine&rsquo;s 100 innovators for the new century. Miguel&rsquo;s topics at Evolve 2014 include mobile development trends, getting the most from C# and .NET, and Xamarin&rsquo;s technology roadmap.</span></p>",
+            "bio": "<p><span>Miguel de Icaza, Xamarin&rsquo;s co-founder and CTO, has directed the Mono project since its inception and has won numerous awards including Time Magazine&rsquo;s 100 innovators for the new century. Miguel&rsquo;s topics at Evolve 2014 include mobile development trends, getting the most from C# and .NET, and Xamarin&rsquo;s technology roadmap.</span></p>",
+            "sessions": [
+                "15a3125b0fef41dca074276dd40b9fdc",
+                "cecffc5c2feb448580808d1e27e295dc",
+                "1f2ee5f70aec4dd9a0413c5f7be414b1"
+            ]
+        },
+        {
+            "id": "e571ceb084fe412991884d6589f66e28",
+            "firstName": "Jérémie",
+            "lastName": "Laval",
+            "shortBio": "<p>French guy and Xamarin hacker, J&eacute;r&eacute;mie has been in the Mono scene for a long time, working on the various open-source parts of the project. These days, he&rsquo;s working on improving the developer experience for Xamarin.iOS and Xamarin.Android.</p>",
+            "bio": "<p>French guy and Xamarin hacker, J&eacute;r&eacute;mie has been in the Mono scene for a long time, working on the various open-source parts of the project. These days, he&rsquo;s working on improving the developer experience for Xamarin.iOS and Xamarin.Android.</p>",
+            "sessions": [
+                "7a8986830aa44223b92682a75e24f5e9",
+                "71d4fc68eb97403a802b1119d4e20719",
+                "aeea6bb3046947ea9d25c05a01bf2027",
+                "8b30ad7594f54148812b15f488638774"
+            ]
+        },
+        {
+            "id": "1613ccfd17b94fe7888e83552aaf0a7f",
+            "firstName": "Craig",
+            "lastName": "Dunn",
+            "shortBio": "<p><span>Craig is a technical writer &amp; developer evangelist at Xamarin. He fell in love with the very early betas of MonoTouch; tweeted, blogged and wrote a book about it. A Microsoft developer from way back, he also worked on mobile phone and tablet projects in the wild before joining Xamarin.</span></p>",
+            "bio": "<p><span>Craig is a technical writer &amp; developer evangelist at Xamarin. He fell in love with the very early betas of MonoTouch; tweeted, blogged and wrote a book about it. A Microsoft developer from way back, he also worked on mobile phone and tablet projects in the wild before joining Xamarin.</span></p>",
+            "sessions": [
+                "33c300bbdb4041ec9056f97539dbbb5a",
+                "48744307d43f42e0a11b4bb498bb469b",
+                "ea3a960db2304008843ba1e55e17d788",
+                "3f426e4ed402419aa003bfe84f0fdb3b"
+            ]
+        },
+        {
+            "id": "750f259f89ba430ca97091e646293616",
+            "firstName": "Jonathan",
+            "lastName": "Dick",
+            "shortBio": "<p><span>A recent addition to the Xamarin team, this developer of the great white north has been slinging C# for mobile since it was born. He&rsquo;s a self proclaimed expert on Push Notifications, has published several Xamarin Components, and even helped write a book on Android C# programming.</span></p>",
+            "bio": "<p><span>A recent addition to the Xamarin team, this developer of the great white north has been slinging C# for mobile since it was born. He&rsquo;s a self proclaimed expert on Push Notifications, has published several Xamarin Components, and even helped write a book on Android C# programming.</span></p>",
+            "sessions": [
+                "bffeafa545914e17b26bbdaa4edd2407"
+            ]
+        },
+        {
+            "id": "1a7b5225efee426eaae468477dd12fd9",
+            "firstName": "Rodrigo",
+            "lastName": "Kumpera",
+            "shortBio": "<p><span>&nbsp;<span>Rodrigo has worked on the Mono runtime over the past 8 years, including working on sandboxing, garbage collection and integrating the runtime with Xamarin&rsquo;s mobile products.</span></span></p>",
+            "bio": "<p><span>Rodrigo has worked on the Mono runtime over the past 8 years, including working on sandboxing, garbage collection and integrating the runtime with Xamarin&rsquo;s mobile products.</span></p>",
+            "sessions": [
+                "7a8986830aa44223b92682a75e24f5e9",
+                "7ffbb0ebe0c2413992e85e0905156e0d"
+            ]
+        },
+        {
+            "id": "18df0725617544579b512902aba951e8",
+            "firstName": "Michael",
+            "lastName": "Hutchinson",
+            "shortBio": "<p><span>&nbsp;<span>Michael has been building developer tools since 2005. At Novell, he was responsible for developing MonoDevelop&rsquo;s web, mobile and Mac tooling. At Xamarin, he works on making Xamarin Studio a first-class development experience for mobile apps.</span></span></p>",
+            "bio": "<p><span>Michael has been building developer tools since 2005. At Novell, he was responsible for developing MonoDevelop&rsquo;s web, mobile and Mac tooling. At Xamarin, he works on making Xamarin Studio a first-class development experience for mobile apps.</span></p>",
+            "sessions": [
+                "6eaa410805f54bafbb6a3244158b08e5"
+            ]
+        },
+        {
+            "id": "699e6b3c26364023af8be99d35685b78",
+            "firstName": "Rachel",
+            "lastName": "Reese",
+            "shortBio": "<p><span>Rachel Reese is a long-time software engineer and math geek who has recently relocated to Nashville, TN to work with the fabulous folks at Firefly Logic, as well as to be a part of the Nashville functional programming scene. She currently helps run the Nashville Xamarin user group, @NashXam, and is an ASPInsider and an F# MVP.</span></p>",
+            "bio": "<p><span>Rachel Reese is a long-time software engineer and math geek who has recently relocated to Nashville, TN to work with the fabulous folks at Firefly Logic, as well as to be a part of the Nashville functional programming scene. She currently helps run the Nashville Xamarin user group, @NashXam, and is an ASPInsider and an F# MVP.</span></p>",
+            "sessions": [
+                "fea2cab152a44e0181117ffd25fbd095"
+            ]
+        },
+        {
+            "id": "edf8f6a26c7c4de0a244eaf150a4b55e",
+            "firstName": "Paul",
+            "lastName": "Betts",
+            "shortBio": "<p><span>Paul Betts is a C# Hacker at GitHub, and is the author of several open source .NET projects, including Refit, Splat! and Akavache. Paul graduated from The Ohio State University, and likes to spend his spare time hacking on open-source software, playing guitar and bass, and in general is within &epsilon; of really awesome.</span></p>",
+            "bio": "<p><span>Paul Betts is a C# Hacker at GitHub, and is the author of several open source .NET projects, including Refit, Splat! and Akavache. Paul graduated from The Ohio State University, and likes to spend his spare time hacking on open-source software, playing guitar and bass, and in general is within &epsilon; of really awesome.</span></p>",
+            "sessions": [
+                "97052878cd0a4ecc81484ed527969ec8",
+                "c2036d5335fd4606bc556c7da2ad101e"
+            ]
+        },
+        {
+            "id": "40eea03b527d469d9470e525a7598955",
+            "firstName": "Brian",
+            "lastName": "Randell",
+            "shortBio": "<p><span>Brian A. Randell is a Partner with MCW Technologies LLC. For more than 20 years he has been building software solutions. He educates teams via writing and training, and is a consultant for companies worldwide, including Fortune 100 companies. He&rsquo;s a Visual Studio ALM MVP and co-author of &ldquo;Professional Application Lifecycle Management with Visual Studio 2013&rdquo; from Wrox Publishing.</span></p>",
+            "bio": "<p><span>Brian A. Randell is a Partner with MCW Technologies LLC. For more than 20 years he has been building software solutions. He educates teams via writing and training, and is a consultant for companies worldwide, including Fortune 100 companies. He&rsquo;s a Visual Studio ALM MVP and co-author of &ldquo;Professional Application Lifecycle Management with Visual Studio 2013&rdquo; from Wrox Publishing.</span></p>",
+            "sessions": [
+                "6c2470fc463e4122aa21fe52c49d1cee"
+            ]
+        },
+        {
+            "id": "1fc6af9feec341dea4cc9e22125e700d",
+            "firstName": "Jon",
+            "lastName": "Skeet",
+            "shortBio": "<p>Jon is a software engineer at Google in London, but outside work his passion is for C# and its community, which is why you'll often find him writing about it in his blog, books or on Stack Overflow. He loves twisting the language in knots, often to the horror of those he's presenting the code to...but never for production code, of course.</p>",
+            "bio": "<p><span>Jon is a software engineer at Google in London, but outside work his passion is for C# and its community, which is why you'll often find him writing about it in his blog, books or on Stack Overflow. He loves twisting the language in knots, often to the horror of those he's presenting the code to...but never for production code, of course.</span></p>",
+            "sessions": [
+                "b2097d8e50004555b9648657a2d797a0"
+            ]
+        },
+        {
+            "id": "37d32d389b04462facb53fc308d0ca2a",
+            "firstName": "Laurent",
+            "lastName": "Bugnion",
+            "shortBio": "<p><span>Laurent works as the Senior Director for IdentityMine in Zurich, Switzerland. This year will mark his 8th year as a Microsoft Client Development MVP and his second year as a Microsoft Regional Director. He is also the author of the well-known open-source framework MVVMLight for Windows Phone, Windows 8, WPF, and Silverlight. In his free time, Laurent writes for MSDN Magazine and various other publications, as well as on GalaSoft, his blog.</span></p>",
+            "bio": "<p><span>Laurent works as the Senior Director for IdentityMine in Zurich, Switzerland. This year will mark his 8th year as a Microsoft Client Development MVP and his second year as a Microsoft Regional Director. He is also the author of the well-known open-source framework MVVMLight for Windows Phone, Windows 8, WPF, and Silverlight. In his free time, Laurent writes for MSDN Magazine and various other publications, as well as on GalaSoft, his blog.</span></p>",
+            "sessions": [
+                "8b2c5f91f251416aabd90d8278900a9a"
+            ]
+        },
+        {
+            "id": "6763d42c01344fd9bb18a6e20682b78b",
+            "firstName": "Joe",
+            "lastName": "Mayo",
+            "shortBio": "<p><span>Joe Mayo is an author, consultant, and instructor who specializes in Microsoft and Xamarin technologies. He has been using C# since it was first announced in July 2000 and his 6 books are all on .NET topics. For his community contributions, Microsoft has honored Joe with 10 MVP awards over the years.</span></p>",
+            "bio": "<p><span>Joe Mayo is an author, consultant, and instructor who specializes in Microsoft and Xamarin technologies. He has been using C# since it was first announced in July 2000 and his 6 books are all on .NET topics. For his community contributions, Microsoft has honored Joe with 10 MVP awards over the years.</span></p>",
+            "sessions": [
+                "5b86dba542424054b01a0e248d6cb847"
+            ]
+        },
+        {
+            "id": "d9cfe16ae13b4a5db229e452235de277",
+            "firstName": "James",
+            "lastName": "Montemagno",
+            "shortBio": "<p><span>James Montemagno is a Developer Evangelist at Xamarin. He has been a .NET developer for over a decade working in a wide range of industries including game development, printer software, and web services. Previously James was a professional mobile developer on the Xamarin platform for over 3 years, with several published apps on iOS, Android, and Windows.</span></p>",
+            "bio": "<p><span><span>James Montemagno is a Developer Evangelist at Xamarin. He has been a .NET developer for over a decade working in a wide range of industries including game development, printer software, and web services. Previously James was a professional mobile developer on the Xamarin platform for over 3 years, with several published apps on iOS, Android, and Windows.</span></span></p>",
+            "sessions": [
+                "71d4fc68eb97403a802b1119d4e20719",
+                "18dbcc297ba645dfa4947fff03599624",
+                "8b30ad7594f54148812b15f488638774",
+                "96d5ccb9cb274a998f069314865ef5c4"
+            ]
+        },
+        {
+            "id": "98845ec6fd6f49219a9af21dcfeb7f6b",
+            "firstName": "Chris",
+            "lastName": "Hardy",
+            "shortBio": "<p><span>Chris Hardy, Director of Customer Support at Xamarin recently moved over to Boston, to work at the Xamarin office after being one of the first developers to develop for Xamarin.iOS over five years ago. Often found at conferences and user groups around the world, Chris also contributed to the Xamarin.iOS and Xamarin.Android books from Wrox with Wally Mclure et al and is excited to see C# on all the mobile devices... including the Google Glass.</span></p>",
+            "bio": "<p><span>Chris Hardy, Director of Customer Support at Xamarin recently moved over to Boston, to work at the Xamarin office after being one of the first developers to develop for Xamarin.iOS over five years ago. Often found at conferences and user groups around the world, Chris also contributed to the Xamarin.iOS and Xamarin.Android books from Wrox with Wally Mclure et al and is excited to see C# on all the mobile devices... including the Google Glass.</span></p>",
+            "sessions": [
+                "70353f4a135442ceb8bbbf6b09083d08"
+            ]
+        },
+        {
+            "id": "9ab9e8ccd9bd4e2ea119c6cc821518a1",
+            "firstName": "Jonathan",
+            "lastName": "Pryor",
+            "shortBio": "<p>.</p>",
+            "bio": "<p><span class=\"il\">Jonathan</span><span>&nbsp;Pryor is the lead developer on Xamarin.Android, interested in compilers, runtime systems, and working on a life-long effort to reduce repetitive code injury. He has&nbsp;previously worked on MonoTouch and DbLinq, and currently contributes to Mono, Cadenza and Mono.Options, all in an effort to make menial tasks slightly less menial.</span></p>",
+            "sessions": [
+                "7a8986830aa44223b92682a75e24f5e9"
+            ]
+        },
+        {
+            "id": "ca8dd8719426448cba908d34cd977413",
+            "firstName": "Michael",
+            "lastName": "Stonis",
+            "shortBio": "<p><span>Michael Stonis is a partner and the lead Mobile developer at Eight-Bot, a Xamarin Premier Consulting partner. Michael focuses on helping companies design and build mobile applications that enrich the lives of their employees and create opportunities using mobile technology that seemed impossible just a few years ago.</span></p>",
+            "bio": "<p><span>Michael Stonis is a partner and the lead Mobile developer at Eight-Bot, a Xamarin Premier Consulting partner. Michael focuses on helping companies design and build mobile applications that enrich the lives of their employees and create opportunities using mobile technology that seemed impossible just a few years ago.</span></p>",
+            "sessions": [
+                "42524af392f04af29747b6cc1a5a6b31",
+                "5b16967c1c7146b8ad05647d181814bc",
+                "4c9f1cd2e35b4c4e9183a01220190ae4"
+            ]
+        },
+        {
+            "id": "3bed195e29964a1fb27a2f5bc1b96f67",
+            "firstName": "Frank",
+            "lastName": "Krueger",
+            "shortBio": "<p><span>Frank has been programming professionally for 16 years and has enjoyed the last 6 years doing independent development for iOS and other mobile platforms. As an early adopter of Xamarin.iOS he has also enjoyed being a member of the Mono community and does his best to share what knowledge he has gained. He lives and works in Seattle and can be found up a mountain off exit 34.</span></p>",
+            "bio": "<p><span>Frank has been programming professionally for 16 years and has enjoyed the last 6 years doing independent development for iOS and other mobile platforms. As an early adopter of Xamarin.iOS he has also enjoyed being a member of the Mono community and does his best to share what knowledge he has gained. He lives and works in Seattle and can be found up a mountain off exit 34.</span></p>",
+            "sessions": [
+                "ea31a405ea2d43ae8da42deb127f21de"
+            ]
+        },
+        {
+            "id": "fe3ebc95f40e40acb77493af3c9bbe4e",
+            "firstName": "Jesse",
+            "lastName": "Liberty",
+            "shortBio": "<p><span>Jesse Liberty is a Master Consultant for Falafel Software, a Microsoft MVP, an author, and he creates courses for Pluralsight. Liberty hosts the popular Yet Another Podcast and his blog is considered required reading. He was a Senior Evangelist for Microsoft, a XAML Evangelist for Telerik, a Distinguished Software Engineer at AT&amp;T; Software Architect for PBS and Vice President of Information Technology at Citibank.</span></p>",
+            "bio": "<p><span>Jesse Liberty is a Master Consultant for Falafel Software, a Microsoft MVP, an author, and he creates courses for Pluralsight. Liberty hosts the popular Yet Another Podcast and his blog is considered required reading. He was a Senior Evangelist for Microsoft, a XAML Evangelist for Telerik, a Distinguished Software Engineer at AT&amp;T; Software Architect for PBS and Vice President of Information Technology at Citibank.</span></p>",
+            "sessions": [
+                "02267e1944db43b8abe90027b4f3e4ee"
+            ]
+        },
+        {
+            "id": "6eb366bd265a4b9683d21b9bbb60cc89",
+            "firstName": "Daniel",
+            "lastName": "Plaisted",
+            "shortBio": "<p><span>Since joining Microsoft in 2008, Daniel has worked on the Managed Extensibility Framework (MEF), Portable Class Libraries, and the .NET Framework. He&rsquo;s a die-hard Portable Class Library lover, and has created a couple of portable OSS libraries: PCL Storage and PCL Testing. In his free time, he enjoys computer games, reading, hiking, juggling, and footbagging (hackey-sack).</span></p>",
+            "bio": "<p><span>Since joining Microsoft in 2008, Daniel has worked on the Managed Extensibility Framework (MEF), Portable Class Libraries, and the .NET Framework. He&rsquo;s a die-hard Portable Class Library lover, and has created a couple of portable OSS libraries: PCL Storage and PCL Testing. In his free time, he enjoys computer games, reading, hiking, juggling, and footbagging (hackey-sack).</span></p>",
+            "sessions": [
+                "447c5e59cba4443cb530f2c9d488dcbd"
+            ]
+        },
+        {
+            "id": "0e2a0ec367e540b0827f04609bffcd1b",
+            "firstName": "Charles",
+            "lastName": "Petzold",
+            "shortBio": "<p><span>Charles Petzold is a Programmer/Writer at Xamarin. He has been writing about programming for Microsoft operating systems for 30 years and has written several books on Windows and Windows Phone development. He is also the author of two unique books on computing technology, Code: The Hidden Language of Computer Hardware and Software (Microsoft Press, 1999) and The Annotated Turing: A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine (Wiley, 2008). Petzold is currently working on a new book, Creating Mobile Apps with Xamarin Forms: Cross Platform C# Programming for iOS, Android, and Windows Phone to be published in 2015.</span></p>",
+            "bio": "<p><span>Charles Petzold is a Programmer/Writer at Xamarin. He has been writing about programming for Microsoft operating systems for 30 years and has written several books on Windows and Windows Phone development. He is also the author of two unique books on computing technology, Code: The Hidden Language of Computer Hardware and Software (Microsoft Press, 1999) and The Annotated Turing: A Guided Tour through Alan Turing's Historic Paper on Computability and the Turing Machine (Wiley, 2008). Petzold is currently working on a new book, Creating Mobile Apps with Xamarin Forms: Cross Platform C# Programming for iOS, Android, and Windows Phone to be published in 2015.</span></p>",
+            "sessions": [
+                "021561b3ae1c44219e8129ee538a84e0",
+                "659fefe25dba4a978992cffcd46bfe6a"
+            ]
+        },
+        {
+            "id": "2d33a8edccc44d728142dd041b2d29d6",
+            "firstName": "Steve",
+            "lastName": "Hall",
+            "shortBio": "<p><span>Steve works with Xamarin&rsquo;s enterprise customers, providing guidance and best practices for implementing mission-critical mobile solutions in an enterprise setting. Steve has over 15 years of mobile experience, covering enterprise mobile architecture, security and development. He has designed secure mobile solutions for government agencies, large enterprises and consumer applications.</span></p>",
+            "bio": "<p><span>Steve works with Xamarin&rsquo;s enterprise customers, providing guidance and best practices for implementing mission-critical mobile solutions in an enterprise setting. Steve has over 15 years of mobile experience, covering enterprise mobile architecture, security and development. He has designed secure mobile solutions for government agencies, large enterprises and consumer applications.</span></p>",
+            "sessions": [
+                "a859fc9eacc34c9fb88e0202a89888e8",
+                "4ebc5023ff4647598acb8b4898c7a5f4"
+            ]
+        },
+        {
+            "id": "2c0747969aaa45db9b667725f3ccfa02",
+            "firstName": "James",
+            "lastName": "Clancey",
+            "shortBio": "<div class=\"presenter\">\r\n<div class=\"bio\">\r\n<p>James Clancey is a passionate mobile developer. He is the creator of the popular iOS app \"gMusic: a Google Music player\". Currently at Xamarin, Clancey specializes in building cross-platform apps. During Evolve he will be training, speaking, \"1on1ing\", and maybe sleeping if time permits. He also enjoys 90&rsquo;s music, Pizza, Mountain Dew, and long walks on the beach.</p>\r\n</div>\r\n</div>",
+            "bio": "<p>James Clancey is a passionate mobile developer. He is the creator of the popular iOS app \"gMusic: a Google Music player\". Currently at Xamarin, Clancey specializes in building cross-platform apps. During Evolve he will be training, speaking, \"1on1ing\", and maybe sleeping if time permits. He also enjoys 90&rsquo;s music, Pizza, Mountain Dew, and long walks on the beach.</p>",
+            "sessions": [
+                "60220ba334694f49a6eea5c08c314166",
+                "84f9a98f273c446c93b4fc1cbd5a523a"
+            ]
+        },
+        {
+            "id": "1871b09fd331434da96c0080216883c4",
+            "firstName": "Jason",
+            "lastName": "Smith",
+            "shortBio": "<p><span>Jason has been working on UI and front-end development for the past decade, touching almost every major UI toolkit in the process. At Xamarin he works on research and development projects, most recently leading the Xamarin.Forms project to create a true cross-platform UI solution.</span></p>",
+            "bio": "<p><span>Jason has been working on UI and front-end development for the past decade, touching almost every major UI toolkit in the process. At Xamarin he works on research and development projects, most recently leading the Xamarin.Forms project to create a true cross-platform UI solution.</span></p>",
+            "sessions": [
+                "2d4749a140654f5aaae1150dc48452f2"
+            ]
+        },
+        {
+            "id": "007c1c3d39264d7ba7b29e30cb5ca857",
+            "firstName": "Steve",
+            "lastName": "Yi",
+            "shortBio": "<p><span>Steve is Director of Product Marketing at Xamarin. He has developed a variety of applications in .NET, enterprise Java, and open-source languages for mobile, web, and cloud. Prior to Xamarin he led architecture, strategy, and product management functions at Avanade, Red Hat and Microsoft Azure. An avid outdoor lover, he is an avid rock climber, mountaineer, and marathon runner.</span></p>",
+            "bio": "<p><span>Steve is Director of Product Marketing at Xamarin. He has developed a variety of applications in .NET, enterprise Java, and open-source languages for mobile, web, and cloud. Prior to Xamarin he led architecture, strategy, and product management functions at Avanade, Red Hat and Microsoft Azure. An avid outdoor lover, he is an avid rock climber, mountaineer, and marathon runner.</span></p>",
+            "sessions": [
+                "619ccaf0c78748cfb1396aa23135ce40"
+            ]
+        },
+        {
+            "id": "f2b38520b0a44ce9bdf0a1379cbb144d",
+            "firstName": "Mike",
+            "lastName": "Bluestein",
+            "shortBio": "<p><span>Xamarin Developer Evangelist. Author of \"Learning MonoTouch\". Founder of Boston Mobile C# Developers. Former Principal Software Engineer at Dassault Syst&egrave;mes Solidworks Corporation.</span></p>",
+            "bio": "<p><span>Xamarin Developer Evangelist. Author of \"Learning MonoTouch\". Founder of Boston Mobile C# Developers. Former Principal Software Engineer at Dassault Syst&egrave;mes Solidworks Corporation.</span></p>",
+            "sessions": [
+                "204eb740c83b444a8eaab227f8c1a62e",
+                "18dbcc297ba645dfa4947fff03599624",
+                "4603d5e1e6104061a07f81e982a3e6b9"
+            ]
+        },
+        {
+            "id": "cc7794a371bd48d0a4c96da080126875",
+            "firstName": "Brent",
+            "lastName": "Schooley",
+            "shortBio": "<p><span>Brent is a Developer Evangelist at Twilio. He has been working with C# since 2005 and iOS since 2009. For almost 5 years he has been a strong advocate of building mobile applications with C# starting with MonoTouch 1.0 and carrying through to today with Xamarin. With a passion for both development and design, he is the author of &ldquo;Designing for Windows 8&rdquo; from Apress. He is a Microsoft MVP in Client Development.</span></p>",
+            "bio": "<p><span>Brent is a Developer Evangelist at Twilio. He has been working with C# since 2005 and iOS since 2009. For almost 5 years he has been a strong advocate of building mobile applications with C# starting with MonoTouch 1.0 and carrying through to today with Xamarin. With a passion for both development and design, he is the author of &ldquo;Designing for Windows 8&rdquo; from Apress. He is a Microsoft MVP in Client Development.</span></p>",
+            "sessions": [
+                "364484826714441eaaa8294942d760bd"
+            ]
+        },
+        {
+            "id": "161cabf9159345ac89465475d4940b79",
+            "firstName": "Adrian",
+            "lastName": "Stevens",
+            "shortBio": "<p><span>Adrian Stevens has over 14 years of experience developing mobile applications; specializing in C# &amp; C++ cross platform development. Prior to join Xamarin as an instructor, Adrian had released several very successful mobile applications developed using Xamarin.iOS &amp; Xamarin.Android.</span></p>",
+            "bio": "<p><span>Adrian Stevens has over 14 years of experience developing mobile applications; specializing in C# &amp; C++ cross platform development. Prior to join Xamarin as an instructor, Adrian had released several very successful mobile applications developed using Xamarin.iOS &amp; Xamarin.Android.</span></p>",
+            "sessions": [
+                "c1dc03b3baab4acaa7696a279776a008",
+                "0c8ed14f24604e888567e3db224e11a7",
+                "555f04ffa31543bdb271daaa886911c5",
+                "73eae2a470d144a1be1ef1e6296a7671",
+                "4a19e24ec5704950bf504f218fb12b93",
+                "45f87243d54d45e38462126f1867531f",
+                "9bc397ae47154fb89b81334b431af196"
+            ]
+        },
+        {
+            "id": "6459996f85bf4fbbb6725df4c09fabb6",
+            "firstName": "Alex",
+            "lastName": "Corrado",
+            "shortBio": "<p><span>Alex Corrado works on the iOS Designer team in Xamarin&rsquo;s Boston office. Originally from Portland, OR, Alex has been a web developer, mobile developer, DBA, C#-ista, and all-around monkey lover. With his current work on the iOS Designer, Alex strives to create delightful visual editing experiences for his fellow developers.</span></p>",
+            "bio": "<p><span>Alex Corrado works on the iOS Designer team in Xamarin&rsquo;s Boston office. Originally from Portland, OR, Alex has been a web developer, mobile developer, DBA, C#-ista, and all-around monkey lover. With his current work on the iOS Designer, Alex strives to create delightful visual editing experiences for his fellow developers.</span></p>",
+            "sessions": [
+                "9cb785b1f10a4d51979a4a6290b9efde"
+            ]
+        },
+        {
+            "id": "9067740f92914393b7152a33dff32365",
+            "firstName": "David",
+            "lastName": "Ortinau",
+            "shortBio": "<p><span>David Ortinau is co-founder of Rendr, a people focused mobile application studio. He has been in the creative software field for 18 years, primarily featuring web and touch software development, and has deployed apps to iOS, Android, and Windows Phone. David continues to work with ThisLife, a photo and video startup recently acquired by Shutterfly.</span></p>",
+            "bio": "<p><span>David Ortinau is co-founder of Rendr, a people focused mobile application studio. He has been in the creative software field for 18 years, primarily featuring web and touch software development, and has deployed apps to iOS, Android, and Windows Phone. David continues to work with ThisLife, a photo and video startup recently acquired by Shutterfly.</span></p>",
+            "sessions": [
+                "355a6fed715f4c67a15aa494c89003f8"
+            ]
+        },
+        {
+            "id": "04dd8d11d93d441c86a194f4ce74408a",
+            "firstName": "Russell",
+            "lastName": "Fustino",
+            "shortBio": "<p><span>Russ Fustino is a Xamarin Developer Evangelist &amp; MVP Microsoft Platform Developer. Russ is a Windows 8.1 and Phone 8.1 app publisher. He has a passion for software development and tools through conveying technology via seminars, webcasts &amp; blogs. Russ is an INETA Lifetime Achievement Award winner.</span></p>",
+            "bio": "<p><span>Russ Fustino is a Xamarin Developer Evangelist &amp; MVP Microsoft Platform Developer. Russ is a Windows 8.1 and Phone 8.1 app publisher. He has a passion for software development and tools through conveying technology via seminars, webcasts &amp; blogs. Russ is an INETA Lifetime Achievement Award winner.</span></p>",
+            "sessions": []
+        },
+        {
+            "id": "74c3d2ad3aaa474fb9f3d458bf7e17ed",
+            "firstName": "Jonathan",
+            "lastName": "Peppers",
+            "shortBio": "<p><span>Jon is a Xamarin MVP and the lead developer on the MonoGame title, Draw a Stickman: EPIC, winner of two Webby awards for best mobile game and people&rsquo;s choice for best tablet game. He leads the app development department at Hitcents, a Xamarin Premier consulting partner. Has worked on other successful apps such as The Harlem Shake, Battlepillars, and even the Xamarin Field Service sample app.</span></p>",
+            "bio": "<p><span>Jon is a Xamarin MVP and the lead developer on the MonoGame title, Draw a Stickman: EPIC, winner of two Webby awards for best mobile game and people&rsquo;s choice for best tablet game. He leads the app development department at Hitcents, a Xamarin Premier consulting partner. Has worked on other successful apps such as The Harlem Shake, Battlepillars, and even the Xamarin Field Service sample app.</span></p>",
+            "sessions": [
+                "a7ba93ff9d8e44f9994df0028a48f230"
+            ]
+        },
+        {
+            "id": "46a79175de4c49ca8dc8824995d84755",
+            "firstName": "Paul",
+            "lastName": "Batum",
+            "shortBio": "<p><span>Paul is a developer on the Azure team at Microsoft and builds cloud-based services that make life easier for mobile developers. Previously he&rsquo;s worked on WebSockets for .NET and Fluent NHibernate, an open source and convention based object-relational mapping library. When he&rsquo;s not writing code Paul likes to play board and video games.</span></p>",
+            "bio": "<p><span>Paul is a developer on the Azure team at Microsoft and builds cloud-based services that make life easier for mobile developers. Previously he&rsquo;s worked on WebSockets for .NET and Fluent NHibernate, an open source and convention based object-relational mapping library. When he&rsquo;s not writing code Paul likes to play board and video games.</span></p>",
+            "sessions": [
+                "0d132d2c9c7a4f4a8c1bf38c1af9c329"
+            ]
+        },
+        {
+            "id": "fb63dab8211540c7942624f46573a7f5",
+            "firstName": "Mike",
+            "lastName": "James",
+            "shortBio": "<p><span>Mike is a customer support engineer at Xamarin. He loves developing apps using Xamarin.Mac and regularly writes about his experiences with the platform. He had mostly worked on cross-platform desktop apps before joining Xamarin and enjoys the opportunity to develop a native UI whilst sharing code.</span></p>",
+            "bio": "<p><span>Mike is a customer support engineer at Xamarin. He loves developing apps using Xamarin.Mac and regularly writes about his experiences with the platform. He had mostly worked on cross-platform desktop apps before joining Xamarin and enjoys the opportunity to develop a native UI whilst sharing code.</span></p>",
+            "sessions": [
+                "eecdf0ff81ae48acbbddf5e18513914b"
+            ]
+        },
+        {
+            "id": "411e7334fe824219af596af653dee163",
+            "firstName": "Victor",
+            "lastName": "Aprea",
+            "shortBio": "<p><span>Daniel Cazzulino and Victor Garcia Aprea are the two founders of Clarius, and their experienced team of developers has spent the last 10 years extending every version of Visual Studio since Visual Studio 2003 for well-known companies around the world, including their largest customer, Microsoft. Their work has included really challenging Visual Studio extensions like IronPython Studio and Debugger Canvas, as well as work for XNA and Microsoft Research.</span></p>",
+            "bio": "<p><span>Daniel Cazzulino and Victor Garcia Aprea are the two founders of Clarius, and their experienced team of developers has spent the last 10 years extending every version of Visual Studio since Visual Studio 2003 for well-known companies around the world, including their largest customer, Microsoft. Their work has included really challenging Visual Studio extensions like IronPython Studio and Debugger Canvas, as well as work for XNA and Microsoft Research.</span></p>",
+            "sessions": [
+                "da999d1f99f0426594c56345684c7b50"
+            ]
+        },
+        {
+            "id": "d020b28c7ea049d2afd0df511b131c66",
+            "firstName": "Daniel",
+            "lastName": "Cazzulino",
+            "shortBio": "<p><span>Daniel Cazzulino and Victor Garcia Aprea are the two founders of Clarius, and their experienced team of developers has spent the last 10 years extending every version of Visual Studio since Visual Studio 2003 for well-known companies around the world, including their largest customer, Microsoft. Their work has included really challenging Visual Studio extensions like IronPython Studio and Debugger Canvas, as well as work for XNA and Microsoft Research.</span></p>",
+            "bio": "<p><span>Daniel Cazzulino and Victor Garcia Aprea are the two founders of Clarius, and their experienced team of developers has spent the last 10 years extending every version of Visual Studio since Visual Studio 2003 for well-known companies around the world, including their largest customer, Microsoft. Their work has included really challenging Visual Studio extensions like IronPython Studio and Debugger Canvas, as well as work for XNA and Microsoft Research.</span></p>",
+            "sessions": [
+                "da999d1f99f0426594c56345684c7b50"
+            ]
+        },
+        {
+            "id": "463b9ef4c18e4e7489fba80882251c63",
+            "firstName": "Mads",
+            "lastName": "Torgensen",
+            "shortBio": "<p><span>Mads is the Program Manager for the C# Language at Microsoft. He owns the language design process for C#, maintains the language specification, and also participates in the design of TypeScript and Visual Basic.</span></p>",
+            "bio": "<p><span>Mads is the Program Manager for the C# Language at Microsoft. He owns the language design process for C#, maintains the language specification, and also participates in the design of TypeScript and Visual Basic.</span></p>",
+            "sessions": [
+                "7c2b968af8704f938f8de5a91280c0ea"
+            ]
+        },
+        {
+            "id": "716ecb54821246a28913924c6bf15680",
+            "firstName": "Greg",
+            "lastName": "Shackles",
+            "shortBio": "<p><span>Greg Shackles is a Senior Engineer at Olo, and has been active in the Xamarin community for more than four years. He is a Xamarin MVP, host of the Gone Mobile podcast, organizer of the NYC Mobile .NET Developers Group, author for O&rsquo;Reilly and Visual Studio Magazine, and is also an aspiring homebrewer.</span></p>",
+            "bio": "<p><span>Greg Shackles is a Senior Engineer at Olo, and has been active in the Xamarin community for more than four years. He is a Xamarin MVP, host of the Gone Mobile podcast, organizer of the NYC Mobile .NET Developers Group, author for O&rsquo;Reilly and Visual Studio Magazine, and is also an aspiring homebrewer.</span></p>",
+            "sessions": [
+                "d2f4a7429985484aa6a8bd97cb66c9fe"
+            ]
+        },
+        {
+            "id": "169ebf9c82a44204a999b4a47e356a65",
+            "firstName": "Rasmus",
+            "lastName": "Kromann-Larsen",
+            "shortBio": "<p><span>Rasmus is currently on the Xamarin Test Cloud team building support for writing tests for the cloud in C# - Xamarin.UITest. He has been using C# since it first came out, and prior to Xamarin was a consultant doing .NET, military software, and gaining lots of experience with different techniques of automated testing. Additionally, Rasmus is involved in running multiple .NET User Groups throughout Denmark.</span></p>",
+            "bio": "<p><span>Rasmus is currently on the Xamarin Test Cloud team building support for writing tests for the cloud in C# - Xamarin.UITest. He has been using C# since it first came out, and prior to Xamarin was a consultant doing .NET, military software, and gaining lots of experience with different techniques of automated testing. Additionally, Rasmus is involved in running multiple .NET User Groups throughout Denmark.</span></p>",
+            "sessions": [
+                "6b7598109cad4732bd8600ae4241c27e"
+            ]
+        },
+        {
+            "id": "47d899a7e5254fbc888f89d124680ac4",
+            "firstName": "René",
+            "lastName": "Ruppert",
+            "shortBio": "<p><span>Ren&eacute; started to program with Turbo Pascal and got stuck with C# a couple of languages later: first on the server with ASP.Net, working on a document collaboration platform with a strong focus on security and encryption. Later, he discovered Xamarin, lead a team that build a high secure iPad app in record to allow customers to consume and work on their documents on the go. Since beginning of 2014, Ren&eacute; is working as a freelancer and instructor at Xamarin University.</span></p>",
+            "bio": "<p><span>Ren&eacute; started to program with Turbo Pascal and got stuck with C# a couple of languages later: first on the server with ASP.Net, working on a document collaboration platform with a strong focus on security and encryption. Later, he discovered Xamarin, lead a team that build a high secure iPad app in record to allow customers to consume and work on their documents on the go. Since beginning of 2014, Ren&eacute; is working as a freelancer and instructor at Xamarin University.</span></p>",
+            "sessions": [
+                "6c2166bbddbd4ebc937715ea31fdb47c",
+                "ed606bccf3784a388f9e0abc03f34d89",
+                "a8d8de88417c4be197e816a26f0b7829",
+                "b120c217a12042668303218216bf00ab",
+                "631821a9b4b7413291d2c1e7575fb5eb",
+                "adf322d3d3de44cebc6fd8750b1ebdd5",
+                "eb210c9405e9491c81229ce1a855588a"
+            ]
+        },
+        {
+            "id": "300df226d4c74c71b88fbd727bf6f48b",
+            "firstName": "Tara",
+            "lastName": "Walker",
+            "shortBio": "",
+            "bio": "<p><span>Tara is a Technical Evangelist for Amazon Web Services and helps developers build apps in the AWS Cloud. Recently she's been working on evangelizing cross-platform development and AWS Mobile Services in conjunction with the AWS Mobile team. With fifteen years of experience as a developer evangelist at Microsoft and other Fortune 500 companies, Tara has worked with a myriad of technologies, languages, and frameworks for mobile, gaming, cloud, web, and NUI development.</span></p>",
+            "sessions": [
+                "73d50245890943e6a0ccc432c032ea28"
+            ]
+        },
+        {
+            "id": "bd8177776b71444a8f39647bf1fe77de",
+            "firstName": "Wayne",
+            "lastName": "Carter",
+            "shortBio": "",
+            "bio": "<p><span>Wayne Carter is the Chief Architect of Mobile at Couchbase and is responsible for leading vision, strategy, and development for the company&rsquo;s mobile solutions. Prior to Couchbase, Wayne spent seven years at Oracle as the Architect responsible for driving mobile innovation within the CRM and SAAS product lines. He has eleven patents and patents pending from his work at Oracle.</span></p>",
+            "sessions": [
+                "4a1f9a55811543268dbe779bc024b7c4"
+            ]
+        },
+        {
+            "id": "51bcc38ef9d740de816462110e7d7469",
+            "firstName": "Zack",
+            "lastName": "Gramana",
+            "shortBio": "",
+            "bio": "<p><span>Zack Gramana is the creator and maintainer of Couchbase Lite for .NET. He kicked off the project while working at Xamarin in San Francisco and now continues his work on Couchbase&rsquo;s mobile team. Zack has been programming since he was a little kid and has fond memories of staring into the glow of his Commodore 64 until way past his bedtime. </span></p>",
+            "sessions": [
+                "4a1f9a55811543268dbe779bc024b7c4"
+            ]
+        },
+        {
+            "id": "b4f019654b8d4446adbbc84e1562b5fb",
+            "firstName": "Steve",
+            "lastName": "Marx",
+            "shortBio": "",
+            "bio": "<p><span class=\"il\">Steve</span><span>&nbsp;</span><span class=\"il\">Marx</span><span>&nbsp;is a Developer Advocate for Dropbox, helping developers make better applications with the power of Dropbox&rsquo;s platform. Prior to joining Dropbox,&nbsp;</span><span class=\"il\">Steve</span><span>&nbsp;founded Webscript.io and Site44, which uses Dropbox&rsquo;s API to turn Dropbox folders into websites. Previously,&nbsp;</span><span class=\"il\">Steve</span><span>&nbsp;spent 10 years at Microsoft working on developer platforms and Microsoft&rsquo;s cloud platform, Windows Azure.</span></p>",
+            "sessions": [
+                "0b650601b69e4539817ee4760fe8a88f"
+            ]
+        },
+        {
+            "id": "ccce9a074ccb4c299b0cc6106f43bc4f",
+            "firstName": "Michael",
+            "lastName": "Sciscenti",
+            "shortBio": "",
+            "bio": "<p><span>Michael Sciscenti is the Vice President of Engineering at APX Labs, the leading enterprise software company for smart glasses. Prior to APX Labs, Michael spent seven years working on sensor systems at Northrop Grumman. During that time he also architected software that made for an amazing smart glasses user experience by integrating key technologies such as location services, multimedia, teleconferencing, and real-time data visualization.</span></p>",
+            "sessions": [
+                "81fff155c9374966ad5a61279aa6587a"
+            ]
+        },
+        {
+            "id": "fce87c95a4654112b0a47439b66de7c6",
+            "firstName": "Peter",
+            "lastName": "Friese",
+            "shortBio": "",
+            "bio": "<p><span>Peter is a software engineer with 15+ years hands-on experience in software development, technical writing and public speaking. He works as a Developer Advocate at Google in the Google+ Developer Relations Team in London, UK. Having worked on a host of industry projects in diverse domains and being an active committer on a number of open source projects, he has in-depth knowledge in a broad range of technologies. He is deeply interested in everything mobile and social. </span></p>",
+            "sessions": [
+                "d57dd445e0704228a4a96dfa064326a6"
+            ]
+        },
+        {
+            "id": "6453ca88bc5744ca86a20130adf588c9",
+            "firstName": "Greg",
+            "lastName": "Truty",
+            "shortBio": "",
+            "bio": "<p><span>Greg Truty has been a core member of WebSphere since its inception and is currently the Chief Architect of IBM's Enterprise Mobility strategy, acting in a cross-brand software group role to integrate a portfolio of products together. Greg specifically focuses on delivering mobile cloud services on Bluemix (delivering cloud delivery) and tying SWG's portfolio into the Worklight platform as part of MobileFirst. </span></p>",
+            "sessions": [
+                "aa38004e71484d1d89d403009b0addfa",
+                "5467309e7c144b0e9de319af2231eb2a"
+            ]
+        },
+        {
+            "id": "7d572de288cf4fe19e48bc6a8136d728",
+            "firstName": "Dean",
+            "lastName": "Ellis",
+            "shortBio": "<p>.</p>",
+            "bio": "<p><span>Dean Ellis is a typical english bloke and Xamarin Hacker working on Xamarin.Android. Currently trying to improve the developer experience for creating Android Bindings. He is also a regular contributor and part of the core team for the MonoGame framework.</span></p>",
+            "sessions": [
+                "60220ba334694f49a6eea5c08c314166"
+            ]
+        },
+        {
+            "id": "89248f52e09e437e83bf39ceaa7069b0",
+            "firstName": "John",
+            "lastName": "Britton",
+            "shortBio": "",
+            "bio": "<p><span>John Britton is the Director, Office of the CTO for Good Technology &ndash; the leader in secure mobility. John has over 15 years of high technology experience and an extensive background in security, mobility and messaging. As part of his responsibilities at Good, John has helped architect mobile security infrastructure for Fortune 500 companies. John is also one of Good&rsquo;s Mobility Evangelists and a frequent speaker at industry conferences on topics pertaining to mobile security, device management, the consumerization of IT and &ldquo;BYOD&rdquo; bring your own device. Prior to Good, John was at mFoundry and Credent Technologies. John also consulted for SAP and i2 Technologies.</span></p>",
+            "sessions": [
+                "a859fc9eacc34c9fb88e0202a89888e8"
+            ]
+        },
+        {
+            "id": "db5e937249ab4920a040c55cee4772b1",
+            "firstName": "Anar",
+            "lastName": "Taori",
+            "shortBio": "",
+            "bio": "<p><span>Anar Taori is Senior Director of Product Management at Fiberlink, an IBM company. She is responsible for driving the product strategy for the company&rsquo;s market leading Enterprise Mobility Management solution, MaaS360. Prior to IBM, she led the development and execution of VMware&rsquo;s End User Computing growth strategy through M&amp;A and organic initiatives across mobile and desktop virtualization, on-prem and cloud services. Anar has also held product management and development roles in companies such as Everdream, Model N and Intel where she managed over a dozen products from concept through launch and growth.</span></p>",
+            "sessions": [
+                "a859fc9eacc34c9fb88e0202a89888e8"
+            ]
+        },
+        {
+            "id": "8e84940b560e422aac7b3faf53d3d6d8",
+            "firstName": "Vince",
+            "lastName": "Arneja",
+            "shortBio": "",
+            "bio": "<p><span id=\"docs-internal-guid-b8336d5a-c856-f3af-ee28-353d3ac2b7bc\"><span>Vince Arneja brings over 20 years of experience in executive and senior level technical product/program management positions with the last 12 years focused on product management and strategy in the domains of mobile application, endpoint and network security. Mr. Arneja&sup1;s responsibilities include leading product strategy, defining corporate product roadmaps, pricing and positioning. Mr. Arneja joined Arxan from Sigaba, a leading email encryption provider acquired by Proofpoint, where he was an executive leading Government and Commercial Product Management. Prior to Sigaba, he served in a variety of senior product and program management roles at various software companies where his leadership helped lead to mergers and acquisitions. Mr. Arneja started his career as a software developer and was part of an IPO after working towards a Bachelor's degree in CIS from Thomas Edison State College. He is also a graduate of various Executive Programs at University of California, Berkeley.</span></span></p>",
+            "sessions": [
+                "a859fc9eacc34c9fb88e0202a89888e8"
+            ]
+        },
+        {
+            "id": "9e488d33170043729150294a558ae6be",
+            "firstName": "Sean",
+            "lastName": "Ginevan",
+            "shortBio": "",
+            "bio": "<p><span id=\"docs-internal-guid-b8336d5a-c857-7050-06f0-57434ff80dee\"><span>Sean</span><span>Ginevan</span><span> (@sginevan) is Director of Business Development for MobileIron. At MobileIron, he is responsible for strategic technology partnerships and development of new solutions. </span><span>Sean</span><span> has spoken at numerous events industry events, has authored many articles on the topic of enterprise mobility, and holds patents in mobile DLP and Unified Communications. </span><span>Sean</span><span> has been with MobileIron for five years in roles across Business Development, Product Management and Marketing. Prior, </span><span>Sean</span><span> held engineering, marketing, and editorial roles with Cisco Systems, InformationWeek, Network Computing, and AOL. </span><span>Sean</span><span> has an MS in Information Management and a BS in Information Management and Technology, both from Syracuse University.</span></span></p>",
+            "sessions": [
+                "a859fc9eacc34c9fb88e0202a89888e8"
+            ]
+        },
+        {
+            "id": "cd551e4cd62f411a979887e8dd741ad0",
+            "firstName": "Erich",
+            "lastName": "Stuntebeck",
+            "shortBio": "",
+            "bio": "<p>Erich Stuntebeck, Ph.D. leads a team of research engineers who specialize in mobile device security and enterprise systems integration and manages the development of proof-of-concept device and server side applications to ensure the proper device use of cryptographic techniques and algorithms. Stuntebeck focuses on long-term security related product strategy and features, working closely with AirWatch&rsquo;s legal intellectual property team on patent fillings.</p>\r\n<p>Prior to joining AirWatch, Stuntebeck worked as a research engineer for a variety of industry leading research institutions, including Microsoft, IBM, the Institute for Telecommunication Sciences and Bell Laboratories. He was also the co-founder of Zensi, a smart-grid technology startup that was acquired by Belkin International in 2010.</p>",
+            "sessions": [
+                "a859fc9eacc34c9fb88e0202a89888e8"
+            ]
+        },
+        {
+            "id": "139097ec50ac4a92ad96dbe699e36105",
+            "firstName": "Brett",
+            "lastName": "Duncavage",
+            "shortBio": "",
+            "bio": "<p><span>Brett Duncavage is a principal engineer and the lead Android developer at Rdio. He's been working in mobile client application development since 2003 with a mission to provide exceptional mobile user experiences through highly polished applications. He has over thirty commercial applications launched to date including &ldquo;RealTone JukeBox,&rdquo; which was awarded the 2006 Qualcomm BREW Developer award.</span></p>",
+            "sessions": [
+                "89f4f0f46889483dbb38c6bb712f3c6d"
+            ]
+        },
+        {
+            "id": "d28cbb1f50df40048fb231ebd28cab41",
+            "firstName": "Karl",
+            "lastName": "Krukow",
+            "shortBio": "",
+            "bio": "<p><span>Karl Krukow is the Technical Lead on Xamarin Test Cloud, an innovative&nbsp;</span><span>cloud-based service that provides access to more than a thousand&nbsp;</span><span>mobile devices for the purpose of automated mobile quality assurance. &nbsp;</span><span>Before joining Xamarin, Karl co-founded LessPainful, a mobile test&nbsp;</span><span>automation start-up which created the popular open-source mobile test&nbsp;</span><span>framework Calabash and the cornerstone of Xamarin Test Cloud.</span></p>",
+            "sessions": [
+                "e988558e96824452aa8d0110f076f538",
+                "6b7598109cad4732bd8600ae4241c27e"
+            ]
+        },
+        {
+            "id": "0e7df5089cf94b08b57a0632732560e7",
+            "firstName": "Niels",
+            "lastName": "Frydenholm",
+            "shortBio": "",
+            "bio": "<p><span>Niels is with eBay Classifieds in Denmark, where he, together with his team, has taken the development of two very popular danish apps to the next level in terms of quality, user experience and a rapid release cycle full of new features. He has a background developing financial JEE systems, before entering mobile development, delivering one of the first mobile banks in Denmark. He is a keen believer that clean code, refactoring, automated tests, CI and all the other great practices really are necessary to move fast forward and deliverer business value. His belief is, of course, backed by real experiences, which he lately has been sharing with various user groups and at a conference focusing on automated tests.</span></p>",
+            "sessions": [
+                "e988558e96824452aa8d0110f076f538"
+            ]
+        },
+        {
+            "id": "fa6d247638dc4ddbb733dc098853b7e1",
+            "firstName": "Grant",
+            "lastName": "Davies",
+            "shortBio": "",
+            "bio": "<p><span>Grant Davies is the CEO and Solutions Architect for Bluetube, an award winning digital agency pioneering tablet, mobile, and web experiences. Grant has over twenty years of background in strategy, thought leadership, and enterprise architecture, and knows a thing or two about building cross-platform apps. While he might originate from the UK, don't be fooled, he became an American citizen in 2010.</span></p>",
+            "sessions": [
+                "272bdff2109e4884999dca7572c977f9"
+            ]
+        },
+        {
+            "id": "cea7b7123bfe48de8caa8354d9bc853e",
+            "firstName": "Darrel",
+            "lastName": "Miller",
+            "shortBio": "",
+            "bio": "<p><span>Darrel has been building distributed business applications on the Microsoft platform for more than 20 years. He is an active member of the .NET community and OSS contributor. When he&rsquo;s not reading IETF specifications in order to answer Stack Overflow questions, or writing tooling to help people build hypermedia driven client applications, you will find him enjoying time with his wife and daughter in Montreal, Quebec. Darrel works as a developer advocate at Runscope ensuring the best support possible to .NET developers who are building and consuming Web APIs. Darrel has been a long time member of the Microsoft Web API advisory board, a Microsoft Integration MVP and recently co-authored the O'Reilly book, Designing Evolvable Web APIs with ASP.NET. </span></p>",
+            "sessions": [
+                "f9f129be5fd94149b2d2cec9fbc5cd97"
+            ]
+        },
+        {
+            "id": "bb853d3de70e4018bab841b47014e010",
+            "firstName": "David",
+            "lastName": "Isbitski",
+            "shortBio": "",
+            "bio": "<p><span>Dave Isbitski is currently the Worldwide Developer Evangelist for Amazon, focused on helping developers with their mobile apps and games. As a professional speaker, trainer, and evangelist for over a decade, Dave has taught full-day courses on many topics including Mobile Apps, Cloud, and the Web. Dave has also helped launch numerous technology platforms, frameworks, and programing languages across an array of devices at both Microsoft and Amazon.</span></p>",
+            "sessions": [
+                "0700cf1f1b3e4951bb44a1dbdd5bc25c"
+            ]
+        },
+        {
+            "id": "2c796e42eb4648c8afef4ef0a1fa0a19",
+            "firstName": "Cheyne",
+            "lastName": "Mathey-Owens",
+            "shortBio": "",
+            "bio": "<p><span>Cheyne Mathey-Owens is a Microsoft developer working on the You vs. The Internet team where he has helped build the cross-platform MMO word game solution that powers the games Wordament and Snap Attack. He has spent the past few years navigating the depths of the iOS, Android, Windows Phone, and Windows 8 SDKs &ndash; and using Xamarin tech to wield them.</span></p>",
+            "sessions": [
+                "da147a4712b54f32a14f38736ab6db4d"
+            ]
+        },
+        {
+            "id": "639dd0109ded43dfa5e7579585991a51",
+            "firstName": "John",
+            "lastName": "Thornton",
+            "shortBio": "",
+            "bio": "<p><span>John Thornton is a co-founder of You vs. the Internet, a Microsoft Studio that develops real-time competitive puzzle games, including the word finding games Wordament and Snap Attack. John blends his talents in design and engineering to make YVI&rsquo;s games addictive, fun, and cross platform. He has worked at Microsoft in a variety of roles over his seventeen year tenure.</span></p>",
+            "sessions": [
+                "da147a4712b54f32a14f38736ab6db4d"
+            ]
+        },
+        {
+            "id": "fbb575f847c042f7a8d67124939f93a5",
+            "firstName": "Mark",
+            "lastName": "Smith",
+            "shortBio": "<p><span data-sheets-value=\"[null,2,&quot;Mark runs the curriculum team at Xamarin University, building and managing the growing course catalog used to train Xamarin developers all over the world. He has worked on everything from mainframes to mobile devices in his career, focusing heavily on both development and teaching developers how to be better programmers. Mark is a Microsoft MVP, Wintellect author and Xamarin Consulting partner.&quot;]\" data-sheets-userformat=\"[null,null,9091,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0,null,null,null,10]\">Mark runs the curriculum team at Xamarin University, building and managing the growing course catalog used to train Xamarin developers all over the world. He has worked on everything from mainframes to mobile devices in his career, focusing heavily on both development and teaching developers how to be better programmers. Mark is a Microsoft MVP, Wintellect author and Xamarin Consulting partner.</span></p>",
+            "bio": "<p>Mark runs the curriculum team at Xamarin University, building and managing the growing course catalog used to train Xamarin developers all over the world. He has worked on everything from mainframes to mobile devices in his career, focusing heavily on both development and teaching developers how to be better programmers. Mark is a Microsoft MVP, Wintellect author and Xamarin Consulting partner.</p>",
+            "sessions": [
+                "971dc3dbcb86417a821d3bed0df67b75",
+                "105278706cf74d67bf20385704e0fdea",
+                "ac2b63291c81454993451be02c495e0b",
+                "b9212b62408041c1aa8cb866f5c384a9",
+                "1376f90a5aa84d9abf43b18df14731a3",
+                "4525f2cde4174b7d8177e4a58591b8fe",
+                "ea2d9ef69702411ab9d463b7281844c1"
+            ]
+        },
+        {
+            "id": "5b8b780878484d7bb2a70c5ca3509180",
+            "firstName": "Chris",
+            "lastName": "van Wyk",
+            "shortBio": "<p><span data-sheets-value=\"[null,2,&quot;Chris van Wyk started his developer career in 1997 mainly developing and teaching Delphi and Pascal. He switched to C# and Mono in 2004. Since then, he has worked with both dynamic and static languages, but always came back to C#. With the initiall release of MonoTouch under Novell, the development story was just too enticing not to explore and he has been hooked since then.&quot;]\" data-sheets-userformat=\"[null,null,11011,[null,0],[null,2,16777215],null,null,null,null,null,null,1,0,null,[null,2,2236962],null,10]\">Chris van Wyk started his developer career in 1997 mainly developing and teaching Delphi and Pascal. He switched to C# and Mono in 2004. Since then, he has worked with both dynamic and static languages, but always came back to C#. With the initiall release of MonoTouch under Novell, the development story was just too enticing not to explore and he has been hooked since then.</span></p>",
+            "bio": "<p><span data-sheets-value=\"[null,2,&quot;Chris van Wyk started his developer career in 1997 mainly developing and teaching Delphi and Pascal. He switched to C# and Mono in 2004. Since then, he has worked with both dynamic and static languages, but always came back to C#. With the initiall release of MonoTouch under Novell, the development story was just too enticing not to explore and he has been hooked since then.&quot;]\" data-sheets-userformat=\"[null,null,11011,[null,0],[null,2,16777215],null,null,null,null,null,null,1,0,null,[null,2,2236962],null,10]\">Chris van Wyk started his developer career in 1997 mainly developing and teaching Delphi and Pascal. He switched to C# and Mono in 2004. Since then, he has worked with both dynamic and static languages, but always came back to C#. With the initiall release of MonoTouch under Novell, the development story was just too enticing not to explore and he has been hooked since then.</span></p>",
+            "sessions": [
+                "1d75342a0b364b0592219854acc2cce5",
+                "829ecb2d73b84ae195f6fc08bed0266a",
+                "bf32cdd7c7924479b5c4afae0722f738",
+                "dbbb1a1295de4a649268b35a9fb0f54e",
+                "7e66283b2ac14574a1fd1f1a1fab8650",
+                "c09eab769e374376b9fa9aed8b369d14"
+            ]
+        },
+        {
+            "id": "8981e9641ff7493188853173b9958264",
+            "firstName": "Glenn",
+            "lastName": "Stephens",
+            "shortBio": "<p><span data-sheets-value=\"[null,2,&quot;Glenn Stephens has been writing software commercially for over 22 years. A published author, he has worked in teams large and small as well as a range of industries including health, security, finance and education, Glenn's key areas include iOS, Android, Back-end Integration and Architecture. Glenn holds a Bachelor of Computer Science and an MBA with a ebusiness specialization.&quot;]\" data-sheets-userformat=\"[null,null,963,[null,0],[null,2,16777215],null,null,null,null,0,1,1,0]\">Glenn Stephens has been writing software commercially for over 22 years. A published author, he has worked in teams large and small as well as a range of industries including health, security, finance and education, Glenn's key areas include iOS, Android, Back-end Integration and Architecture. Glenn holds a Bachelor of Computer Science and an MBA with a ebusiness specialization.</span></p>",
+            "bio": "<p><span data-sheets-value=\"[null,2,&quot;Glenn Stephens has been writing software commercially for over 22 years. A published author, he has worked in teams large and small as well as a range of industries including health, security, finance and education, Glenn's key areas include iOS, Android, Back-end Integration and Architecture. Glenn holds a Bachelor of Computer Science and an MBA with a ebusiness specialization.&quot;]\" data-sheets-userformat=\"[null,null,963,[null,0],[null,2,16777215],null,null,null,null,0,1,1,0]\">Glenn Stephens has been writing software commercially for over 22 years. A published author, he has worked in teams large and small as well as a range of industries including health, security, finance and education, Glenn's key areas include iOS, Android, Back-end Integration and Architecture. Glenn holds a Bachelor of Computer Science and an MBA with a ebusiness specialization.</span></p>",
+            "sessions": [
+                "5aee6467bd0849fdaf16d788fc22635f",
+                "49ab46635dae46a9a78b58150fee4fb0",
+                "2f78b8b9d9ea4fe491ed90779143228b",
+                "c9198ff0b729474080b3a9d6e637119e",
+                "3781db76b8b543239bbda7db23c863f6",
+                "eb7d66d56bd54bcba69327b50c9367e6"
+            ]
+        },
+        {
+            "id": "9482ec950fbc410284506d5e77427763",
+            "firstName": "Tom",
+            "lastName": "Opgenorth",
+            "shortBio": "<p><span data-sheets-value=\"[null,2,&quot;Tom Opgenorth is a technical writer with Xamarin. In 2008 he picked up the first Android phone, the ADP1, and has been hooked on mobile technologies ever since then. At Xamarin he spends his days on the documentation team, fusing the wonderful world of mobile and C# into samples and tutorials that make it easier for others to tackle cross platform development. When not working, Tom is busy being dragged around by his trusty Samoyed dog or monkeying around with Arduino.&quot;]\" data-sheets-userformat=\"[null,null,771,[null,0],[null,2,16777215],null,null,null,null,null,null,1,0]\">Tom Opgenorth is a technical writer with Xamarin. In 2008 he picked up the first Android phone, the ADP1, and has been hooked on mobile technologies ever since then. At Xamarin he spends his days on the documentation team, fusing the wonderful world of mobile and C# into samples and tutorials that make it easier for others to tackle cross platform development. When not working, Tom is busy being dragged around by his trusty Samoyed dog or monkeying around with Arduino.</span></p>",
+            "bio": "<p><span data-sheets-value=\"[null,2,&quot;Tom Opgenorth is a technical writer with Xamarin. In 2008 he picked up the first Android phone, the ADP1, and has been hooked on mobile technologies ever since then. At Xamarin he spends his days on the documentation team, fusing the wonderful world of mobile and C# into samples and tutorials that make it easier for others to tackle cross platform development. When not working, Tom is busy being dragged around by his trusty Samoyed dog or monkeying around with Arduino.&quot;]\" data-sheets-userformat=\"[null,null,771,[null,0],[null,2,16777215],null,null,null,null,null,null,1,0]\">Tom Opgenorth is a technical writer with Xamarin. In 2008 he picked up the first Android phone, the ADP1, and has been hooked on mobile technologies ever since then. At Xamarin he spends his days on the documentation team, fusing the wonderful world of mobile and C# into samples and tutorials that make it easier for others to tackle cross platform development. When not working, Tom is busy being dragged around by his trusty Samoyed dog or monkeying around with Arduino.</span></p>",
+            "sessions": [
+                "a88e3556f3544608b293388faa3103c3"
+            ]
+        },
+        {
+            "id": "6575e71ba5474da09ffdde3848bc0316",
+            "firstName": "Rob",
+            "lastName": "Gibbens",
+            "shortBio": "<p><span data-sheets-value=\"[null,2,&quot;Rob Gibbens is a community advocate, a Xamarin University trainer, a Spartan, a long time .net developer, cofounder of Detroit Mobile .Net User Group, and owner of Artek Software. When he is not creating applications for the man or cheering for the Green and White, he is hacking is own world, spawning a passion for mobile app development to hack his devices, creation of TekConf.com to hack his community, and a never-ending drive to level up.&quot;]\" data-sheets-userformat=\"[null,null,9091,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0,null,null,null,10]\">Rob Gibbens is a community advocate, a Xamarin University trainer, a Spartan, a long time .net developer, cofounder of Detroit Mobile .Net User Group, and owner of Artek Software. When he is not creating applications for the man or cheering for the Green and White, he is hacking is own world, spawning a passion for mobile app development to hack his devices, creation of TekConf.com to hack his community, and a never-ending drive to level up.</span></p>",
+            "bio": "<p><span data-sheets-value=\"[null,2,&quot;Rob Gibbens is a community advocate, a Xamarin University trainer, a Spartan, a long time .net developer, cofounder of Detroit Mobile .Net User Group, and owner of Artek Software. When he is not creating applications for the man or cheering for the Green and White, he is hacking is own world, spawning a passion for mobile app development to hack his devices, creation of TekConf.com to hack his community, and a never-ending drive to level up.&quot;]\" data-sheets-userformat=\"[null,null,9091,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0,null,null,null,10]\">Rob Gibbens is a community advocate, a Xamarin University trainer, a Spartan, a long time .net developer, cofounder of Detroit Mobile .Net User Group, and owner of Artek Software. When he is not creating applications for the man or cheering for the Green and White, he is hacking is own world, spawning a passion for mobile app development to hack his devices, creation of TekConf.com to hack his community, and a never-ending drive to level up.</span></p>",
+            "sessions": [
+                "531e29657eee4fb78e131a9dfc0837a7",
+                "dc37391f19b044b6bc0e280e1c880615",
+                "d344369f71f9437d884e7dbca1800869",
+                "eb1951ef90454e5b8703caf7c7b92783",
+                "bd5b3c505b1f44baa4be6296c820bd5e",
+                "151e2a754f6e4967ad714a686d3deabc"
+            ]
+        },
+        {
+            "id": "d36bb48f470043be8752b0c759149c03",
+            "firstName": "Roger",
+            "lastName": "Peters",
+            "shortBio": "<p><span data-sheets-value=\"[null,2,&quot;Roger Peters is an independent mobile consultant operating out of Atlanta under the name All Mobile Everything where he provides mobile strategy and development services. Roger (aka @SmartyP) has created digital experiences for nearly 20 years with a primary focus on creating engaging user experiences. He is a former Silverlight MVP, and has developed over a dozen mobile apps published across iOS, Android, Windows Phone, and Windows 8.&quot;]\" data-sheets-userformat=\"[null,null,11011,[null,0],[null,2,16777215],null,null,null,null,null,null,1,0,null,[null,2,2236962],null,10]\">Roger Peters is an independent mobile consultant operating out of Atlanta under the name All Mobile Everything where he provides mobile strategy and development services. Roger (aka @SmartyP) has created digital experiences for nearly 20 years with a primary focus on creating engaging user experiences. He is a former Silverlight MVP, and has developed over a dozen mobile apps published across iOS, Android, Windows Phone, and Windows 8.</span></p>",
+            "bio": "<p><span data-sheets-value=\"[null,2,&quot;Roger Peters is an independent mobile consultant operating out of Atlanta under the name All Mobile Everything where he provides mobile strategy and development services. Roger (aka @SmartyP) has created digital experiences for nearly 20 years with a primary focus on creating engaging user experiences. He is a former Silverlight MVP, and has developed over a dozen mobile apps published across iOS, Android, Windows Phone, and Windows 8.&quot;]\" data-sheets-userformat=\"[null,null,11011,[null,0],[null,2,16777215],null,null,null,null,null,null,1,0,null,[null,2,2236962],null,10]\">Roger Peters is an independent mobile consultant operating out of Atlanta under the name All Mobile Everything where he provides mobile strategy and development services. Roger (aka @SmartyP) has created digital experiences for nearly 20 years with a primary focus on creating engaging user experiences. He is a former Silverlight MVP, and has developed over a dozen mobile apps published across iOS, Android, Windows Phone, and Windows 8.</span></p>",
+            "sessions": [
+                "ca6c32d8bd114534a4453ff3576a5d8f"
+            ]
+        },
+        {
+            "id": "ee60a042e3094708b7e590a11f207558",
+            "firstName": "Michael",
+            "lastName": "Facemire",
+            "shortBio": "",
+            "bio": "<p>Michael serves Application Development &amp; Delivery Professionals. He is a leading expert on mobile software development, software development process, and next-generation open web architectures. Michael has more than 13 years of experience in the software development industry. He joined Forrester from IBM, where he delivered industry-leading applications in mobile, social software, content management, portal, and workflow. While there, he authored or co-authored 23 patents in the areas of mobile software, collaborative systems, content management, and media services that have been issued or pending.&nbsp;Michael holds a bachelor's degree in computer engineering from Case Western Reserve University.</p>",
+            "sessions": [
+                "b6e27ad97f2545f387331c43634ab57d"
+            ]
+        },
+        {
+            "id": "923df3f9e18d4eb69058db136bb58e9f",
+            "firstName": "Terry",
+            "lastName": "Gault",
+            "shortBio": "<p><span>Co-owner of The Henderson Group, Terry Gault is responsible for THG&rsquo;s service portfolio. His clients include Salesforce, Prezi, Oracle, eBay, Juniper Networks and many others. Terry has over thirty years worth of experience in film, television, and theater and also helms EinsteinFilms.com, a video production company. Terry is a film buff and graduate of both The American Academy of Dramatic Arts and the San Francisco Theater Academy.</span></p>",
+            "bio": "<p>Co-owner of The Henderson Group, Terry Gault is responsible for THG&rsquo;s service portfolio. His clients include Salesforce, Prezi, Oracle, eBay, Juniper Networks and many others. Terry has over thirty years worth of experience in film, television, and theater and also helms EinsteinFilms.com, a video production company. Terry is a film buff and graduate of both The American Academy of Dramatic Arts and the San Francisco Theater Academy.</p>",
+            "sessions": [
+                "47e87cee86804ad8abb9da83a2849446"
+            ]
+        },
+        {
+            "id": "5d2db1f4e19e4633af6a16e0922643ce",
+            "firstName": "Avichal",
+            "lastName": "Sharma",
+            "shortBio": "",
+            "bio": "<p><span>Avichal Sharma is working as Technical Architect - iOS Developments at Accenture. During his professional carrier, he has worked on various domains like Healthcare, Robotic Farming and Oil Pipeline. He likes to keep himself up to date with latest development trends &amp; loves to explore new interesting technologies to make use of them in the projects on board. Travelled from Microsoft to Apple through C# and Objective C, and nowadays coding on Xamarin Platform using what he calls -Objective- C#, where the two ends meet.</span></p>",
+            "sessions": [
+                "fcd9947f671b4b3c88037810a625fc2e"
+            ]
+        },
+        {
+            "id": "a107a94730ca43a6885b07eca9d135ce",
+            "firstName": "Cecil",
+            "lastName": "Aydin",
+            "shortBio": "",
+            "bio": "<p><span>Celil Aydin is Mobile App Developer and Configuration Manager at Accenture, Istanbul. Lately he has been working on mobile apps for wearable devices such as hearing instruments. Before joining Accenture, he worked at Siemens and was a part of the device driver development team. When he isn't working, Celil is a passionate runner and loves to participate in Big City Marathons.</span></p>",
+            "sessions": []
+        },
+        {
+            "id": "90701c996ae94174ad086429dc083404",
+            "firstName": "Serhat",
+            "lastName": "Aydin",
+            "shortBio": "",
+            "bio": "<p><span>Serhat Aydin is a Mobile App Developer/Team Lead at Accenture, Istanbul. He fell in love with Xamarin over a year ago and is using it currently on mobile apps that control hearing aid devices. Previously, he worked for different R&amp;D projects like Energy Distribution Management Systems and Avionic Systems. Apart from his daytime job, Serhat is a guerrilla game developer. </span></p>",
+            "sessions": [
+                "fcd9947f671b4b3c88037810a625fc2e"
+            ]
+        },
+        {
+            "id": "568eb8f280834b92b21d58799d8ae600",
+            "firstName": "Gustavo",
+            "lastName": "Machado",
+            "shortBio": "",
+            "bio": "<p>Gustavo Machado is the VP of Engineering of KidoZen, where leads the development of the company&rsquo;s next-generation enterprise mobile app platform product. He has experience developing highly distributed systems with Microsoft Technologies and Node.js using Agile practices. In 2011, was honored with the Microsoft MVP Award for Connected Systems. Gustavo has been working on Service-Oriented Applications for Enterprise Companies using WCF and Node.js for the past few years; and has been recently using different Cloud platforms (Windows Azure, Amazon AWS, Heroku). He also participates in open source projects and forums. He discovered his other passion, speaking in conferences, in 2010 while presenting at CodeCamp BA for the first time on &ldquo;REST on Microsoft platforms,&rdquo; and he keeps an active blog at http://machadogj.com.</p>",
+            "sessions": [
+                "391855bf97b4418db45effe4bd26f72b"
+            ]
+        },
+        {
+            "id": "da11939dc91e43109c67e971d07aef8a",
+            "firstName": "Larry",
+            "lastName": "O'Brien",
+            "shortBio": "",
+            "bio": "<p><span>Larry O'Brien is a Developer/Writer for Xamarin. He sold his first program at age 16 and has been an influential voice in the software engineering community since 1989. He edited Computer Language, AI Expert, Software Development, and Game Developer magazines, founded the Jolt Programming Awards, and has written the \"Codewatch\" columnist for SD Times since 2001. Three times, he architected the core component for a company that subsequently scaled from single-millions to &gt;$100M sales. His programs have appeared in National Geographic Magazine, been collected in the permanent design collection of the New York Museum of Modern Art, and have transacted more than $6B over the course of the last decade.</span></p>",
+            "sessions": [
+                "8c28b0ee62ab4784995e53b5a1554163"
+            ]
+        },
+        {
+            "id": "bb5fee5aaacb40e0b99dbce25f7d3120",
+            "firstName": "Rich",
+            "lastName": "Mendis",
+            "shortBio": "",
+            "bio": "<p><span>Richard is the Chief Product and Marketing Officer of AnyPresence, a software platform company that reduces the time and cost of building enterprise mobile apps. Before co-founding AnyPresence, Richard was VP of Solution Management at SAP, working in the CTO and sustainability offices. Richard joined SAP through the acquisition of his last startup Clear Standards, where he was co-founder and CMO. Prior, he was VP of Marketing at Current Analysis, a technology research firm.&nbsp; Richard is a frequent speaker on a broad range of enterprise mobility topics. He holds a Bachelor of Science in Computer Science from the University of Toronto.</span></p>",
+            "sessions": [
+                "391855bf97b4418db45effe4bd26f72b"
+            ]
+        },
+        {
+            "id": "962b8066834546c38cf0bc0177ec8165",
+            "firstName": "Daniel",
+            "lastName": "Pardhe",
+            "shortBio": "",
+            "bio": "",
+            "sessions": [
+                "20b39b0ba88944d8ab5e1aad8e5bf15e"
+            ]
+        },
+        {
+            "id": "02a2d869f98a416f865bb8c073c66b9e",
+            "firstName": "Xamarin",
+            "lastName": "Training Staff",
+            "shortBio": "",
+            "bio": "",
+            "sessions": [
+                "cd7d339fdf844c92b8842931d89c61c7",
+                "ba17dee3edd74928a5601b4435edce81",
+                "cb581f928c6040bca57378ae689634c9",
+                "35b9e4eeaeb8468388ebcecbdd8316c4",
+                "bda129229582498ca3b632dfef5a8e8f",
+                "87bf905235984a3c94e5d7177ce728f1",
+                "ff6f8347841047b39c361e2634fdd92b",
+                "3c877409acf449759d77c022a7d9f89b",
+                "860152f072bb4752b4d2e9205f6ad4b7",
+                "05c6f8b4efdf4258bbc327d060b02d10",
+                "926fb26d59bd4298845eafcd5564be9b",
+                "34f3801e80a446faae3bd1075a37c13b"
+            ]
+        },
+        {
+            "id": "086c6c802b514acea3741181ab6db2d5",
+            "firstName": "Darren",
+            "lastName": "Cathey",
+            "shortBio": "",
+            "bio": "<p><span class=\"il\">Darren</span><span>&nbsp;Cathey is a Security Solutions Architect for Arxan Technologies, focusing on application security.&nbsp; Before joining Arxan in 2014&nbsp;</span><span class=\"il\">Darren</span><span>&nbsp;spent 20 years in a variety of roles in the embedded software industry.</span></p>",
+            "sessions": [
+                "f965b60951f74ea389894032b1e7fd07"
+            ]
+        },
+        {
+            "id": "bfb6a53013444de9816b50aebe297400",
+            "firstName": "Bryan",
+            "lastName": "Costanich",
+            "shortBio": "",
+            "bio": "<p><span>Bryan Costanich is the Vice President of Education Services at Xamarin and heads up both Xamarin University and the Documentation team. He's a renowned Software Architect, published author, mobile development expert, and a seasoned entrepreneur. In addition to having published App Store apps, he led the team that built Cricket's MuveMusic service, which runs on Android and is the largest mobile music subscription service on the planet. When not working in tech, you can find Bryan building robots, monkeying around in Hollywood, or out in the mountains (usually hanging from a cliff).</span></p>",
+            "sessions": [
+                "9684939ed23c447cadbf37acf4595059"
+            ]
+        },
+        {
+            "id": "c8b3f06d043d4126ab6cf243a28de505",
+            "firstName": "Nina",
+            "lastName": "Vyedin",
+            "shortBio": "",
+            "bio": "<p><span>Nina</span><span>&nbsp;</span><span>Vyedin</span><span>&nbsp;(@misskallisto) is a Technical Program Manager at Xamarin. She has spent the last 3 years making Xamarin's mobile development platform simpler and more delightful for developers. When she is not writing code she can be found performing improv comedy in Boston or charting the savage wilderness of northern&nbsp;</span><span>Massachusetts&nbsp;</span><span>on horseback.</span></p>",
+            "sessions": [
+                "f9b184f5ab464e438126231607f13a28"
+            ]
+        },
+        {
+            "id": "f2a82ccf7e034a4f83e8a1b0dbb1842e",
+            "firstName": "Xamarin",
+            "lastName": "Evolve",
+            "shortBio": "",
+            "bio": "",
+            "sessions": [
+                "87710591dda9429581943a5152436669",
+                "97b0d2d72b0a4327b4dab20b9022e132",
+                "16b706b20a9a4662a00f2989cdcfa921",
+                "281d694f3d0a4cb7abf316c8a5c5a079",
+                "9f66de3dcc4c4858a4c599990963b6a2",
+                "08bf61b151fc4902adf4db8d19be9896",
+                "74a3fb1ef88d4a28828f0d61a26de3be",
+                "33768b98802d4865820be745f48d1e0e",
+                "e091ebad19fd421298d91b1557106cd7",
+                "786efe5944d34937ac1430b9c1cca382",
+                "016745c814c442d3bb6c353e249673c2",
+                "d87ee6aa347845bf9328f6cf900690a3",
+                "c5edac63562c4ffaa8b030f7eecca80f",
+                "49f5406a24b34e42b4b794e5d8e1b1f8"
+            ]
+        },
+        {
+            "id": "1bb1ba18aeeb4ff89e25ae13572214ec",
+            "firstName": "Nish",
+            "lastName": "Anil",
+            "shortBio": "",
+            "bio": "<p><span class=\"il\">Nish</span><span> is a C# fanatic and has been writing softwares for web &amp; windows platforms for almost a decade now. He is a Microsoft MVP in IE and had been advocating on client side MVC frameworks over a year. He works out of Bangalore, India and is passionate about spreading C# &amp; Xamarin love by helping developers build 100% native mobile applications for iOS, Android, Windows Phone &amp; Windows Store Apps.</span></p>",
+            "sessions": [
+                "40ef8fb932254001ae605d445810319e"
+            ]
+        },
+        {
+            "id": "2196a57ecc3e406898e1eb9985c0e524",
+            "firstName": "Ben",
+            "lastName": "Bishop",
+            "shortBio": "",
+            "bio": "<p><span>With 10 years of experience as a professional interactive developer, Ben has had the good fortune to work with some of the smartest people and most popular brands in the field. Ben recently launched a successful line of mobile fitness apps for interval training. He is passionate about improving the developer experience and producing quality software that empowers customers to confidently grow.</span></p>",
+            "sessions": [
+                "d1a8059955cc46ba86da8ce664a44473"
+            ]
+        },
+        {
+            "id": "e425a9b3fd6a4c3a873236d1299ce9b4",
+            "firstName": "Stephen",
+            "lastName": "Shaw",
+            "shortBio": "",
+            "bio": "<p><span>Stephen Shaw (@decriptor) is a software engineer at Xamarin. Before joining he used Xamarin's development platform to build both Android and iOS applications. When he is not working he spends time with his amazing wife and three children.</span></p>",
+            "sessions": [
+                "f9b184f5ab464e438126231607f13a28"
+            ]
+        },
+        {
+            "id": "b0a1cec076bb4d3db1ae38a12b8ca581",
+            "firstName": "Aaron ",
+            "lastName": "Bockover",
+            "shortBio": "",
+            "bio": "<p><span>Aaron is a beer, bacon, and cat connoisseur. At Xamarin he's in charge of the new Sketches project, but previously lead development of Xamarin.Mac. Before Xamarin, Aaron was responsible for the core development of Rdio's mobile applications, making them an early adopeter of Xamarin. Shortly after his love of C# began in 2002, Aaron founded the Banshee Media Player project at Novell. He is married to his wonderful wife Hannah, and lives and works from home in Raleigh, North Carolina.</span></p>",
+            "sessions": [
+                "0f498cf5c80c464cbd6b3d60f82070ae"
+            ]
+        }
+    ],
+    "sessions": [
+        {
+            "id": "0700cf1f1b3e4951bb44a1dbdd5bc25c",
+            "title": "Use the Power of C# to Create Experiences across Amazon Fire Phone, Fire TV and Kindle Fire",
+            "description": "<p>David Isbitski, Worldwide Developer Evangelist for the Amazon Appstore and Fire devices, wants to educate you on how to build native Amazon Fire phone, Fire TV, and Kindle Fire Apps with Xamarin. He'll give you a walk-through of how to quickly use Xamarin to run your apps and games on Amazon devices, as well as provide an overview of Amazon Appstore services that help developers get their app discovered and increase customer engagement and monetization.</p>",
+            "speakers": [
+                "bb853d3de70e4018bab841b47014e010"
+            ]
+        },
+        {
+            "id": "73d50245890943e6a0ccc432c032ea28",
+            "title": "Better Mobile Apps with Amazon Web Services",
+            "description": "<p>Tara Walker will demonstrate how to build great mobile apps that leverage the AWS Cloud services that provide identity management and data sync (Amazon Cognito), push notifications (Amazon SNS Mobile Push), cloud storage (Amazon S3), and a fully-managed NoSQL database (Amazon DynamoDB). She'll take you through, step-by-step, so you can learn to add services to your cross-platform mobile app using Xamarin and C#, configure AWS services, and then integrate the services into your backend architecture.</p>",
+            "speakers": [
+                "300df226d4c74c71b88fbd727bf6f48b"
+            ]
+        },
+        {
+            "id": "272bdff2109e4884999dca7572c977f9",
+            "title": "The Salesforce1 Platform:  the Enterprise Back-End for All Your Mobile Apps",
+            "description": "<p>Let Grant Davies, founder and CEO of Bluetube Interactive, teach you how to go faster when building cross-platform mobile apps with Salesforce and Xamarin and never worry about maintaining infrastructure again! In this session, Grant will show you how to easily connect Xamarin apps to the Salesforce1 Platform, an enterprise back-end for mobile apps with infrastructure and a variety of mobile services that make apps more contextual, user-centric, engaging, secure and scalable.</p>",
+            "speakers": [
+                "fa6d247638dc4ddbb733dc098853b7e1"
+            ]
+        },
+        {
+            "id": "4a1f9a55811543268dbe779bc024b7c4",
+            "title": "Building Mobile Apps That Work Online & Offline with Couchbase",
+            "description": "<p>Xamarin and Couchbase have jointly developed Couchbase Lite for .NET &mdash; a NoSQL database optimized for mobile. Let Wayne Carter and Zack Gramana show you how its low-friction document datastore, powerful MapReduce queries, and drop-dead simple synchronization combine to help you build awesome apps faster and easier! We'll cover common use cases and show you just how easy it is to integrate into your apps so they \"just work\" &mdash; anytime, anywhere.</p>",
+            "speakers": [
+                "51bcc38ef9d740de816462110e7d7469",
+                "bd8177776b71444a8f39647bf1fe77de"
+            ]
+        },
+        {
+            "id": "0b650601b69e4539817ee4760fe8a88f",
+            "title": "Cross-platform Syncing with Dropbox",
+            "description": "<p>You already know how to get your app running on multiple platforms and devices, but what about your users' data? Cloud storage is ubiquitous, but it's only part of the story. You also need to think about syncing, offline access, and conflict resolution. In this demo-heavy talk, Steve Marx, a developer advocate at Dropbox, will walk you through the challenges of cross-platform syncing and the tools that Dropbox provides for mobile developers.</p>",
+            "speakers": [
+                "b4f019654b8d4446adbbc84e1562b5fb"
+            ]
+        },
+        {
+            "id": "81fff155c9374966ad5a61279aa6587a",
+            "title": "Designing Wearable User Experiences",
+            "description": "<p>As mobility moves rapidly into new territory like Google Glass and other heads-up displays, it's important to know how to design for these devices. Join Michael Sciscenti as he talks about the top use cases for wearable mobility and how to design for it based on lessons hard won in developing the Xamarin-based Skylight UX, designed especially for business scenarios where hands-free, in-context, and access to real time information is crucial to the modern enterprise.</p>",
+            "speakers": [
+                "ccce9a074ccb4c299b0cc6106f43bc4f"
+            ]
+        },
+        {
+            "id": "e988558e96824452aa8d0110f076f538",
+            "title": "Getting your Testing Process in Place",
+            "description": "<p>Learn how one forward-thinking company used Test Cloud and gained immediate value overcoming their mobile development challenges. Listen as they share their lessons learned, describing the problems they faced and how they incorporated Test Cloud into their development processes to create user-centric apps that are faster, more responsive, free of regressions, and frequently updated with new features to please and win new customers.</p>",
+            "speakers": [
+                "0e7df5089cf94b08b57a0632732560e7",
+                "d28cbb1f50df40048fb231ebd28cab41"
+            ]
+        },
+        {
+            "id": "42524af392f04af29747b6cc1a5a6b31",
+            "title": "Designing Android UIs for the ever changing device landscape",
+            "description": "<p>Android is everywhere. Developers can now build apps that run on phones, tablets, TVs, cars, wearables, and even appliances! While this provides a breadth of opportunity, it creates a big problem when designing apps that can run across all of these different device types. In this session, join Michael Stonis to talk about how to create and manage dynamic UIs that look and feel great across different screen sizes and form factors.</p>",
+            "speakers": [
+                "ca8dd8719426448cba908d34cd977413"
+            ]
+        },
+        {
+            "id": "fea2cab152a44e0181117ffd25fbd095",
+            "title": "1) Write Cross-Platform Apps with F# & Xamarin. 2) ??? 3) Profit!",
+            "description": "<p>With each new release of Xamarin Studio, the mobile story gets even better for functional programming. It&rsquo;s possible to write fully native, cross-platform mobile apps --- iOS, Android, Mac, Windows Phone 7, and Windows 8 -- entirely in F#! Rachel Reese will concentrate on iOS development, starting with the basics, and show you tips and tricks that will keep you productive. You&rsquo;ll practically be a master app dev when we're done -- all that's missing is your idea!</p>",
+            "speakers": [
+                "699e6b3c26364023af8be99d35685b78"
+            ]
+        },
+        {
+            "id": "97052878cd0a4ecc81484ed527969ec8",
+            "title": "Writing Mobile Apps the Github Way",
+            "description": "<p>Paul Betts has created a project for C# developers that includes many of the libraries and patterns GitHub uses in the Windows version of GitHub Desktop, 'Starter-Mobile'. Hang out while we learn how the project works and then create a simple app with it. We'll see how the this approach leads to testable, cross-platform code.</p>",
+            "speakers": [
+                "edf8f6a26c7c4de0a244eaf150a4b55e"
+            ]
+        },
+        {
+            "id": "b2097d8e50004555b9648657a2d797a0",
+            "title": "A Canon in C#",
+            "description": "<p>Jon Skeet is a software engineer at Google in London with a lingering passion for C# and its community. You'll often find Jon writing about C# in his blog, or his books, or even on Stack Overflow. He loves twisting the language into knots, often to the dismay of those he's presenting the code to!</p>",
+            "speakers": [
+                "1fc6af9feec341dea4cc9e22125e700d"
+            ]
+        },
+        {
+            "id": "02267e1944db43b8abe90027b4f3e4ee",
+            "title": "Evolving From Web to Mobile App with Xamarin",
+            "description": "<p>See how easy Xamarin makes your migration path to mobile when Jesse Liberty shows you how to turn an ASP.NET MVC mobile website into an app suitable for enterprise or app store deployment using Xamarin and the Razor templating engine. Jesse will teach you how to leverage your existing HTML, Javascript, and CSS skills to ship hybrid mobile applications, plus how to extend your app with native functionality using Xamarin.</p>",
+            "speakers": [
+                "fe3ebc95f40e40acb77493af3c9bbe4e"
+            ]
+        },
+        {
+            "id": "c2036d5335fd4606bc556c7da2ad101e",
+            "title": "Rx and the TPL: Cats and Dogs Living Together??",
+            "description": "<p>Asynchronous programming is all the rage these days, with good reason. With the introduction of async/await in C# 5.0, writing truly non-blocking code has gone from a giant headache, to something we should be doing all the time. However, two technologies have emerged from Microsoft, the Task Parallel Library, and the less common but emerging technology, the Reactive Extensions for .NET. Which should developers be using? Does Task and async/await replace Rx? In fact, the best answer is, \"Use both!\" This talk will describe how Task and Rx's IObservable can be used together to produce truly elegant, functional, and far more testable code than using either technology in isolation. Through plenty of code examples, we'll see how to use Rx to test and mock Task methods, how to write LINQ'y async code, and when to use Rx Zen Nature and when to use Task Zen Nature.</p>",
+            "speakers": [
+                "edf8f6a26c7c4de0a244eaf150a4b55e"
+            ]
+        },
+        {
+            "id": "d57dd445e0704228a4a96dfa064326a6",
+            "title": "Google Play Services with Xamarin",
+            "description": "<p>Google Play Services are a unified SDK that allow you to quickly and easily integrate Google features into your Android apps. Being rolled out to millions of Android devices, they provide easy access to Google services and allow you to innovate quickly. In this session, I will give a rundown of the core services available via Google Play Services. Attendees will get an overview of the new APIs that ship as a part of the latest version of Google Play Services. We will also have a look at some of the lesser known features that will enable you to build apps that truly rock.</p>",
+            "speakers": [
+                "fce87c95a4654112b0a47439b66de7c6"
+            ]
+        },
+        {
+            "id": "a7ba93ff9d8e44f9994df0028a48f230",
+            "title": "If You Can Ship Your app in China, You Can Ship it Anywhere",
+            "description": "<p>Jonathan Peppers knows the painful experience of delivering a mobile game to China, and what it's like to submit to around thirty app stores. Let him share his experience with you (but only so you don't go through what he did)! Let Jonathan divulge some of his most valuable tips and tricks about things like in app purchases and even piracy prevention that will help your app easily land in the hands of users.</p>",
+            "speakers": [
+                "74c3d2ad3aaa474fb9f3d458bf7e17ed"
+            ]
+        },
+        {
+            "id": "aa38004e71484d1d89d403009b0addfa",
+            "title": "Keeping Apps Relevant",
+            "description": "<p>Creating a successful enterprise app that employees actually adopt into their workflow requires much more than just delivering a great UI and UX on the employee's choice of device. Greg Truty knows about the best practices for managing the last, but not least parts, of the mobile application lifecycle. Join Greg for a chat about deployment, support, and management best practices for your enterprise mobile apps.</p>",
+            "speakers": [
+                "6453ca88bc5744ca86a20130adf588c9"
+            ]
+        },
+        {
+            "id": "5467309e7c144b0e9de319af2231eb2a",
+            "title": "Connecting Xamarin Apps with IBM Worklight",
+            "description": "<p>IBM Worklight server is mobile-optimized middleware that serves as a gateway between applications, back-end systems and cloud-based services. Let Greg Truty teach you how to connect native Xamarin apps to IBM Worklight Server for easy integration into your enterprise's environment so that you can leverage your existing resources and infrastructure for mobile, as well as channel cloud-based services to the end-user device.</p>",
+            "speakers": [
+                "6453ca88bc5744ca86a20130adf588c9"
+            ]
+        },
+        {
+            "id": "8b2c5f91f251416aabd90d8278900a9a",
+            "title": "Building Cross-Platform Applications with Xamarin, Xamarin.Forms and MVVM Light",
+            "description": "<p>MVVM Light is a popular open source toolkit that's been used in thousands of production XAML applications since 2009. It consists of components, snippets, templates and guidance, and has a strong community of followers. Now, MVVM Light is available for Xamarin! Join Laurent Bugnion, the author of MVVM Light, as he talks about the toolkit and the MVVM architecture and demonstrates how with these tools, you can improve your development workflow.</p>",
+            "speakers": [
+                "37d32d389b04462facb53fc308d0ca2a"
+            ]
+        },
+        {
+            "id": "ea31a405ea2d43ae8da42deb127f21de",
+            "title": "Programming Augmented Reality",
+            "description": "<p>Join Frank A. Krueger for an exciting, first hand look at how to create Augmented Reality mobile apps. Learn some snazzy pro-moves such as how to use the phone's sensors to locate and orient the user, how to capture images from the camera and overlay OpenGL scenes onto those said captured images, and finally, how to put it all together into one super-awesome cohesive experience.</p>",
+            "speakers": [
+                "3bed195e29964a1fb27a2f5bc1b96f67"
+            ]
+        },
+        {
+            "id": "5b86dba542424054b01a0e248d6cb847",
+            "title": "Applying C# Async in Mobile",
+            "description": "<p>Join Joe Mayo as he shows you how awesome async is and demonstrates how it completely revolutionized previous efforts to write asynchronous code. Joe will even demo working open-source software, practical applications like calling out to Web API services, and real-world scenarios like exception handling and cancellation. Let Joe show you all the dramatic improvements in code construction and maintenance that async offers in order to create a more satisfying experience for app users.</p>",
+            "speakers": [
+                "6763d42c01344fd9bb18a6e20682b78b"
+            ]
+        },
+        {
+            "id": "6c2470fc463e4122aa21fe52c49d1cee",
+            "title": "Building a Modern DevOps Solution for your App",
+            "description": "<p>Very few apps live in a disconnected world. They are often part of a larger system that includes web sites, web services, database and more. Do you have a grip on this system? Can you find the problems before your customers do? Brian will take the time to cover just what the heck DevOps is and how you can apply it when building solutions both private and public with Xamarin's tools.</p>",
+            "speakers": [
+                "40eea03b527d469d9470e525a7598955"
+            ]
+        },
+        {
+            "id": "447c5e59cba4443cb530f2c9d488dcbd",
+            "title": "Target All the Platforms with this One Awesome Trick",
+            "description": "<p>Supporting multiple platforms is becoming a requirement in the industry. Fortunately, Daniel Plaisted already has a grasp on how .NET enables you to write code for a wide variety of platforms! Let Daniel show you new ways to share your code with cool things like Universal apps with shared projects and Portable Class Libraries. He'll demonstrate how to use the Model-View-ViewModel pattern to create a clean separation of your user interface and business logic code.</p>",
+            "speakers": [
+                "6eb366bd265a4b9683d21b9bbb60cc89"
+            ]
+        },
+        {
+            "id": "7c2b968af8704f938f8de5a91280c0ea",
+            "title": "The Future of C#",
+            "description": "<p>Project Roslyn is a complete renewal of the C# and Visual Basic compilers, exposing the compilers as full fidelity APIs for everyone to use, and providing a great foundation for evolving the tool experience and the languages themselves. So how can you make use of Roslyn and what new language features are in store? Join Mads Torgensen and get all the answers!</p>",
+            "speakers": [
+                "463b9ef4c18e4e7489fba80882251c63"
+            ]
+        },
+        {
+            "id": "0d132d2c9c7a4f4a8c1bf38c1af9c329",
+            "title": "Building Cross-Platform Business Apps with Azure Mobile Services",
+            "description": "<p>Join Paul Batum for a session on how you can accelerate your cross-platform business app development with Xamarin and Azure Mobile Services. Together you'll look at how easily you can enable offline support for your apps with the new offline data sync feature, how to build hybrid cloud applications that can securely access on-premise data and services, how to authenticate your app users with Azure Active Directory, and loads more!</p>",
+            "speakers": [
+                "46a79175de4c49ca8dc8824995d84755"
+            ]
+        },
+        {
+            "id": "d2f4a7429985484aa6a8bd97cb66c9fe",
+            "title": "Using Continuous Integration with Xamarin Apps",
+            "description": "<p>Greg Shackles knows continuous integration is a crucial tool when developing software, regardless of platform. Catching issues as quickly as possible is a big win, especially in the mobile world. Take a look at how to run tests as part of the build, covering unit tests as well as integration tests using C# and Test Cloud. Greg will get you started using continuous integration with Xamarin apps in several environments for both iOS and Android.</p>",
+            "speakers": [
+                "716ecb54821246a28913924c6bf15680"
+            ]
+        },
+        {
+            "id": "f9f129be5fd94149b2d2cec9fbc5cd97",
+            "title": "Use Hypermedia in your Mobile Apps and Spend Less Time Dealing with App Stores",
+            "description": "<p>Xamarin's ability to build mobile apps with native UI across multiple platforms is awesome. But there is a downside to supporting multiple platforms. More apps stores to deal with. It's great that you can share C# application logic between platforms. However, it does mean that changing that logic means updating all the app stores to get the changes in your users' hands. This talk will demonstrate a way of creating view models that are driven by hypermedia to enable you to move application logic onto the server, so your highly responsive native mobile applications can evolve with far fewer updates to the app store. Let your native applications truly embrace web architecture and get the best of both worlds.</p>",
+            "speakers": [
+                "cea7b7123bfe48de8caa8354d9bc853e"
+            ]
+        },
+        {
+            "id": "89f4f0f46889483dbb38c6bb712f3c6d",
+            "title": "Scrolling Performance and Bitmap Caching in Android",
+            "description": "<p>Brett Duncavage knows that smoothly scrolling lists should be the goal of every application developer. Let him teach you about native thread profiling, memory profiling, and proper management of Bitmaps in Xamarin applications. Plus, he'll help you to identify what is causing stuttering (also known as jank) during scrolling in your app, how to fix it, and the best practices to follow to avoid it in the future.</p>",
+            "speakers": [
+                "139097ec50ac4a92ad96dbe699e36105"
+            ]
+        },
+        {
+            "id": "da147a4712b54f32a14f38736ab6db4d",
+            "title": "Wordament: X-platform, the Hard Way and the Easy Way",
+            "description": "<p>Join engineers Cheyne Mathey-Owens and John Thornton of Wordament, the popular MMO word game, as they discuss taking their hit Windows Phone game to iOS, Android, and beyond! Hear how Cheyne and John made the move from writing native client code to using C# everywhere and achieved very high code sharing across all platforms. Expect plenty of real world examples to help you with your next project in this fast paced fun talk.</p>",
+            "speakers": [
+                "2c796e42eb4648c8afef4ef0a1fa0a19",
+                "639dd0109ded43dfa5e7579585991a51"
+            ]
+        },
+        {
+            "id": "355a6fed715f4c67a15aa494c89003f8",
+            "title": "UX Patterns for Cross Platform Mobile",
+            "description": "<p>David Ortinau understands that building engaging and usable apps for a single platform is challenging enough, let alone for multiple platforms! Listen as he exposes Xamarin's UX prowess in catering to platform differences, while leveraging common patterns, to create truly superior app experiences. Together you'll cover popular user interface and user experience patterns for each platform, how to use Xamarin.Forms for a faster app with a great user interface, and how to avoid pitfalls.</p>",
+            "speakers": [
+                "9067740f92914393b7152a33dff32365"
+            ]
+        },
+        {
+            "id": "364484826714441eaaa8294942d760bd",
+            "title": "Hey, you got your Objective-C in my C#!",
+            "description": "<p>Brent Schooley can show you the steps to take to create C# bindings to native iOS libraries so that you can bring all the fun things you find on Cocoa Controls into your Xamarin applications. Together you'll cover binding simple libraries using Objective Sharpie as well as more advanced manual examples using iOS Binding Projects. You'll even create a component out of your newly bound project for submission to the Xamarin Component Store!</p>",
+            "speakers": [
+                "cc7794a371bd48d0a4c96da080126875"
+            ]
+        },
+        {
+            "id": "7a8986830aa44223b92682a75e24f5e9",
+            "title": "What's New in Xamarin.Android?",
+            "description": "<p>Android L, Android Wear, Android TV, Android Auto, Material Design, and ART; what does this mean to you as a Xamarin developer? Learn about the newest technologies and tools that are all the rage in Android development today! Join Jon, J&eacute;r&eacute;mie, and James as they take you on an adventure into all the latest bits of Xamarin.Android.</p>",
+            "speakers": [
+                "e571ceb084fe412991884d6589f66e28",
+                "9ab9e8ccd9bd4e2ea119c6cc821518a1",
+                "1a7b5225efee426eaae468477dd12fd9"
+            ]
+        },
+        {
+            "id": "15a3125b0fef41dca074276dd40b9fdc",
+            "title": "What's New in Xamarin.Mac and Xamarin.iOS?",
+            "description": "<p>Join Miguel de Icaza as he demonstrates how to make your applications shine when you take advantage of all the new features of iOS 8 and the latest release of Xamarin.iOS. He'll give you the lowdown on targeting various devices and screen sizes effectively, how to use the thousands of new APIs that are shipping with iOS 8, and so much more!</p>",
+            "speakers": [
+                "7b3424484ef6417a9d7e5e9e17a8defb"
+            ]
+        },
+        {
+            "id": "71d4fc68eb97403a802b1119d4e20719",
+            "title": "Material Android Design from Concept to Implementation I",
+            "description": "<p>Sometimes flat design isn't enough! Material Design is the largest shift in Android design since its original release and Jeremie and James are here to show it off! This session covers everything new in Material Design and what it means for Xamarin.Android developers. By the end, you'll have an understanding of the three important principles of Material Design and the know-how to start transforming existing and new Android apps with Material Design.</p>",
+            "speakers": [
+                "e571ceb084fe412991884d6589f66e28",
+                "d9cfe16ae13b4a5db229e452235de277"
+            ]
+        },
+        {
+            "id": "33c300bbdb4041ec9056f97539dbbb5a",
+            "title": "Your First Xamarin.Forms App",
+            "description": "<p>Craig Dunn has a lot of great things to say about Xamarin.Forms, the new cross-platform API for building cross-platform mobile apps. Allow Craig to give you the lowdown on the basics of the Xamarin.Forms architecture so together you can walk through building your first iOS, Android, and Windows Phone apps using 100% shared UI and back-end code.</p>",
+            "speakers": [
+                "1613ccfd17b94fe7888e83552aaf0a7f"
+            ]
+        },
+        {
+            "id": "2d4749a140654f5aaae1150dc48452f2",
+            "title": "Extending Xamarin.Forms with your own controls and layouts",
+            "description": "<p>Xamarin.Forms provides a solid foundation for building cross-platform native user interfaces with a single codebase, but it also provides a number of ways to extend your app's capabilities using device-specific features. With the help of Jason Smith, learn how to write a custom renderer for native controls, how to access native APIs using the dependency service, and a bunch of other awesome and useful tips for extending Xamarin.Forms.</p>",
+            "speakers": [
+                "1871b09fd331434da96c0080216883c4"
+            ]
+        },
+        {
+            "id": "204eb740c83b444a8eaab227f8c1a62e",
+            "title": "CocosSharp: C# Games that Run Everywhere",
+            "description": "<p>CocosSharp is an exciting new platform from Xamarin that enables developers to create stunning 2D games for iOS, Android, Mac, and Windows from a shared C# or F# code base. Mike Bluestein will cover game development strategies and how CocosSharp can help you deliver cross-platform 2D games for apps on all mobile and desktop platforms. By the end, you'll have all the knowledge you need to start creating your own games!</p>",
+            "speakers": [
+                "f2b38520b0a44ce9bdf0a1379cbb144d"
+            ]
+        },
+        {
+            "id": "70353f4a135442ceb8bbbf6b09083d08",
+            "title": "C# is in My Ears and in My Eyes",
+            "description": "<p>Wearable computing might seem like something from the future (or an Inspector Gadget episode), but many people are already embracing the future today! C# developers know this and already have the tools and skills to harness the power of wearable devices. Watch Chris Hardy demonstrate how you can take advantage of .NET to develop awesome applications that connect your phone, Google Glass, and Android Wear devices together.</p>",
+            "speakers": [
+                "98845ec6fd6f49219a9af21dcfeb7f6b"
+            ]
+        },
+        {
+            "id": "4603d5e1e6104061a07f81e982a3e6b9",
+            "title": "Anyone Can Cook (a 3D Game in iOS 8)",
+            "description": "<p>Join Mike Bluestein as he shows you just how easy it can be to make a casual and fast 3D game for iOS 8 and Mac using the powerful combination of Scene Kit and Sprite Kit. Hang with him so you can explore using 3D assets, particles, collision, physics, and more!</p>",
+            "speakers": [
+                "f2b38520b0a44ce9bdf0a1379cbb144d"
+            ]
+        },
+        {
+            "id": "18dbcc297ba645dfa4947fff03599624",
+            "title": "iBeacons and Contextual Location Awareness in iOS and Android apps",
+            "description": "<p>iBeacons are taking the world by storm, allowing developers to leverage Bluetooth Low Energy to give their apps location support that can work just about anywhere. From retail stores to sports arenas, you'll soon be finding iBeacons all over the place. Join James and Mike as they introduce iBeacons. Get a crash course on how they work, how to use them, and how to get started making apps in both iOS and Android.</p>",
+            "speakers": [
+                "f2b38520b0a44ce9bdf0a1379cbb144d",
+                "d9cfe16ae13b4a5db229e452235de277"
+            ]
+        },
+        {
+            "id": "7ffbb0ebe0c2413992e85e0905156e0d",
+            "title": "Memory Management Tips & Tricks for iOS",
+            "description": "<p>Hang out with Rodrigo Kumpera as he covers the basics of how garbage collection (and the garbage collector on Xamarin.iOS in particular) works, and how you can use that knowledge to build higher performing apps. He'll explain the interaction between Mono&rsquo;s garbage collector with iOS memory management take a look at common problems and scenarios relating to that. Plus, he's going to cover new features in Xamarin.iOS such as NewRefCount!</p>",
+            "speakers": [
+                "1a7b5225efee426eaae468477dd12fd9"
+            ]
+        },
+        {
+            "id": "aeea6bb3046947ea9d25c05a01bf2027",
+            "title": "Mastering Time & Space",
+            "description": "<p>Mobile development has brought a radical shift in how we design user interfaces. Instead of thinking in terms of static text and dialog boxes, we are now exploring rich data experiences where we strive to instill life into our content by using animations to bring motion to the user screen. Funny thing is, someone in Hollywood was trying to do the same thing back in the '30s with a certain well-known mouse...</p>",
+            "speakers": [
+                "e571ceb084fe412991884d6589f66e28"
+            ]
+        },
+        {
+            "id": "391855bf97b4418db45effe4bd26f72b",
+            "title": "MBaaS Leaders: Kidozen and AnyPresence",
+            "description": "<p><span>Whether you have 1 user or 1 million users, you need a scalable backend for your app. As the mobile economy booms, mobile backend-as-a-service (mBaaS) solutions are experiencing rapid growth. These cloud-based services make it easier for developers to set up and operate scalable backend services for their mobile apps. In this session, two of the leading MBaaS companies will share best practices for creating engaging, scalable, cross-device experiences.</span></p>",
+            "speakers": [
+                "568eb8f280834b92b21d58799d8ae600",
+                "bb5fee5aaacb40e0b99dbce25f7d3120"
+            ]
+        },
+        {
+            "id": "bffeafa545914e17b26bbdaa4edd2407",
+            "title": "Build Your App on the Shoulders of Giants",
+            "description": "<p>Xamarin developers enjoy access to a ton of great .NET code already written to solve common, and often complex problems, so why not leverage the .NET code written by the vibrant community in your own apps? Let Jonathan Dick show you how easy it is to pull together an amazing app from the great components and libraries available in the Xamarin Component Store and in the NuGet community!</p>",
+            "speakers": [
+                "750f259f89ba430ca97091e646293616"
+            ]
+        },
+        {
+            "id": "6eaa410805f54bafbb6a3244158b08e5",
+            "title": "Become a Xamarin Studio Expert",
+            "description": "<p>Improve your productivity through the effective use of Xamarin Studio! Suitable for beginners and experienced users alike, come hang out with Michael Hutchinson as he divulges some tips and tricks for customizing Xamarin Studio to make it work better for you -and your apps!- so development is a simply delightful experience.</p>",
+            "speakers": [
+                "18df0725617544579b512902aba951e8"
+            ]
+        },
+        {
+            "id": "eecdf0ff81ae48acbbddf5e18513914b",
+            "title": "Finish the Mac App You Didn’t Know You Started",
+            "description": "<p>If you're writing for Xamarin.iOS, you may not realize how close you are to completing your first Mac app! With 1 to 1 mappings of the Cocoa APIs, you can unleash the power of OS X with your favorite tools and languages. Let Mike James bring you up to speed with C# development for OS X. He'll show you how to design beautiful native user interfaces that reach more than 66 million potential customers!</p>",
+            "speakers": [
+                "fb63dab8211540c7942624f46573a7f5"
+            ]
+        },
+        {
+            "id": "da999d1f99f0426594c56345684c7b50",
+            "title": "Your Comfort Zone Is Getting A Lot Bigger: Xamarin for Visual Studio vNext",
+            "description": "<p dir=\"ltr\"><span>When time to market is crucial and every bit of productivity counts, getting out of your comfort zone to learn new languages (Objective-C and Java) and new IDEs (Xcode and Eclipse or Android Studio) is the last thing you need for that urgent new mobile-based project you just got. </span></p>\r\n<p><br /><span>Xamarin for Visual Studio brings the exploding mobile apps space to your comfort zone, enabling you to leverage the familiar highly productive environment that the best IDE on Earth provides. Come learn about the most recent changes we&rsquo;ve made to the product, as well as what&rsquo;s in the pipeline for the future. Your feedback at this early stage in the development of the cool stuff we&rsquo;ll show you is key to shape the product and help us make your comfort zone bigger than ever!</span></p>",
+            "speakers": [
+                "411e7334fe824219af596af653dee163",
+                "d020b28c7ea049d2afd0df511b131c66"
+            ]
+        },
+        {
+            "id": "6b7598109cad4732bd8600ae4241c27e",
+            "title": "Find Bugs Before Your Users Do with Xamarin Test Cloud and C#",
+            "description": "<p><span>We know that creating a great mobile app can be challenging. Without automated testing, it's almost impossible to ensure it acts consistently in a fragmented device market. Let us demonstrate how to write automation tests for any mobile app with Visual Studio, Xamarin Studio and C# and automate testing across hundreds of devices with Xamarin Test Cloud so you can find the bugs before your users!</span></p>",
+            "speakers": [
+                "d28cbb1f50df40048fb231ebd28cab41",
+                "169ebf9c82a44204a999b4a47e356a65"
+            ]
+        },
+        {
+            "id": "021561b3ae1c44219e8129ee538a84e0",
+            "title": "XAML for Xamarin.Forms",
+            "description": "<p>Xamarin.Forms brings XAML -- the eXtensible Application Markup Language -- to cross-platform mobile development. Join Charles Petzold as he covers the basics of XAML syntax, including resources, property elements, attached properties, and markup extensions. He'll demonstrate how to integrate custom views and custom markup extensions into XAML, and discusses the relationship between XAML and the popular MVVM (Model-View-ViewModel) application architecture.</p>",
+            "speakers": [
+                "0e2a0ec367e540b0827f04609bffcd1b"
+            ]
+        },
+        {
+            "id": "659fefe25dba4a978992cffcd46bfe6a",
+            "title": "Xamarin.Forms is Even Cooler than You Think",
+            "description": "<p>Labels and Buttons and Sliders are essential but let's go beyond the surface and explore some of the special features of Xamarin.Forms that allow cool C# and XAML coding and awesome cross-platform apps. Join Charles Petzold as he dives into the more obscure layout mechanisms, the power of data bindings and behaviors, and flexible animation infrastructure. Can Xamarin.Forms games be far behind?</p>",
+            "speakers": [
+                "0e2a0ec367e540b0827f04609bffcd1b"
+            ]
+        },
+        {
+            "id": "6c2166bbddbd4ebc937715ea31fdb47c",
+            "title": "The Home Button is Not the End: Backgrounding and Multitasking in iOS",
+            "description": "<p>Join Ren&eacute; Ruppert as he takes a look back at the history of multitasking in iOS. Let him give you a rundown on how iOS has managed background tasks, starting with its humble beginnings in iOS4 all the way to the latest iOS where Apple made major changes in the implementation. By the end, you'll know all the cool and nifty things you can do with multitasking in iOS!</p>",
+            "speakers": [
+                "47d899a7e5254fbc888f89d124680ac4"
+            ]
+        },
+        {
+            "id": "c1dc03b3baab4acaa7696a279776a008",
+            "title": "Dynamic Layout in iOS 8: Making your apps look great everywhere",
+            "description": "<p>iOS hasn't had as many resolutions to worry about as Android, but Adrian Stevens knows that this is all changing with the introduction of the iPhone 6 and iPhone 6 Plus, adding a third and fourth screen size on the phone form factor. Come learn how to take advantage of AutoLayout with Constraints and the iOS Designer to make sure your application properly scales so it gets the most out of every pixel available!</p>",
+            "speakers": [
+                "161cabf9159345ac89465475d4940b79"
+            ]
+        },
+        {
+            "id": "619ccaf0c78748cfb1396aa23135ce40",
+            "title": "Architecting Authentication, Security, and Extending Existing Systems for Enterprise Mobile Apps",
+            "description": "<p>Creating mobile apps for the enterprise offers unique challenges in integrating with existing systems, synchronizing data, security, identity, and knowing when to challenge legacy IT orthodoxy for a successful enterprise mobile strategy. Join Steve Yi as he demonstrates code and architectural techniques, as well as how to utilize promising cloud services that bridge mobile devices with existing or on-premises systems.</p>",
+            "speakers": [
+                "007c1c3d39264d7ba7b29e30cb5ca857"
+            ]
+        },
+        {
+            "id": "a859fc9eacc34c9fb88e0202a89888e8",
+            "title": "Panel: Mobile Security Best Practices",
+            "description": "<p>Nearly every employee has at least one mobile device and chances are the minute they walk through the door those devices are connected to the network. Join representatives from Airwatch, Good Technology, Mobile Iron, Arxan, IBM in a panel discussion with moderator Steve Hall on how to best secure your sensitive data in the app, on the device, and over the wire.</p>",
+            "speakers": [
+                "2d33a8edccc44d728142dd041b2d29d6",
+                "89248f52e09e437e83bf39ceaa7069b0",
+                "db5e937249ab4920a040c55cee4772b1",
+                "8e84940b560e422aac7b3faf53d3d6d8",
+                "9e488d33170043729150294a558ae6be",
+                "cd551e4cd62f411a979887e8dd741ad0"
+            ]
+        },
+        {
+            "id": "9cb785b1f10a4d51979a4a6290b9efde",
+            "title": "Diving into the Xamarin Designer for iOS",
+            "description": "<p>With the Xamarin 3 release, iOS developers have a powerful new tool for visualizing and designing native UIs: the Xamarin Designer for iOS. Let Alex Corrado introduce the Xamarin Designer for iOS and illustrate some best practices for visually designing your application's user interface. He'll even show you how the Xamarin Designer for iOS' custom control support enables you to develop parts of your UI in code, while still visualizing them in your application's storyboard.</p>",
+            "speakers": [
+                "6459996f85bf4fbbb6725df4c09fabb6"
+            ]
+        },
+        {
+            "id": "4ebc5023ff4647598acb8b4898c7a5f4",
+            "title": "Build Apps Faster with an Enterprise Component Library",
+            "description": "<p>Discover best practices in creating an enterprise library of reusable components and patterns for consistently and efficiently handling things like authentication, logging, encryption and more! Join Steve Hall as he covers several methods for creating and maintaining enterprise components, and sharing them with your organization to deliver applications faster, with consistent functionality, and less effort.</p>",
+            "speakers": [
+                "2d33a8edccc44d728142dd041b2d29d6"
+            ]
+        },
+        {
+            "id": "8b30ad7594f54148812b15f488638774",
+            "title": "Material Android Design from Concept to Implementation II",
+            "description": "<p>Sometimes flat design isn't enough! Material Design is the largest shift in Android design since its original release and Jeremie and James are here to show it off! This session covers everything new in Material Design and what it means for Xamarin.Android developers. By the end, you'll have an understanding of the three important principles of Material Design and the know-how to start transforming existing and new Android apps with Material Design.</p>",
+            "speakers": [
+                "e571ceb084fe412991884d6589f66e28",
+                "d9cfe16ae13b4a5db229e452235de277"
+            ]
+        },
+        {
+            "id": "60220ba334694f49a6eea5c08c314166",
+            "title": "MonoGame: Games that Run Everywhere, Even the Top of the App Store",
+            "description": "<p>MonoGame is the logical successor to the excellent XNA framework, powered by .Net and the powerful Xamarin frameworks it will let you hit more platforms using identical code than you probably think is possible. In this session we'll take a look at why you should choose MonoGame for your next project, as well as give you an update on what's been happening on the project over the last year and where its heading. We'll also take a detailed look at some published apps that used MonoGame so you can get a good idea of how things fit together and how to approach cross platform game development.</p>",
+            "speakers": [
+                "7d572de288cf4fe19e48bc6a8136d728",
+                "2c0747969aaa45db9b667725f3ccfa02"
+            ]
+        },
+        {
+            "id": "971dc3dbcb86417a821d3bed0df67b75",
+            "title": "Developing Mobile Applications",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;So you want to be a mobile developer? In this session we will talk about the software development lifecycle for mobile development and lean how Xamarin fits into that picture. You will have a complete understanding of the kinds of applications you can build and see the entire development process from concept to publishing!&quot;]\" data-sheets-userformat=\"[null,null,13187,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">So you want to be a mobile developer? In this session we will talk about the software development lifecycle for mobile development and lean how Xamarin fits into that picture. You will have a complete understanding of the kinds of applications you can build and see the entire development process from concept to publishing!</span></p>",
+            "speakers": [
+                "fbb575f847c042f7a8d67124939f93a5"
+            ]
+        },
+        {
+            "id": "ed606bccf3784a388f9e0abc03f34d89",
+            "title": "Introduction to Xamarin.Forms - Fundamentals",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Xamarin Forms enables rapid cross-platform development that targets iOS, Android and Windows Phone 8. With Xamarin Forms you can share the code for both the UI and the logic that drives it. In this session, we will cover introduce the UI framework, the project structure, and the basic components you use to build applications.&quot;]\" data-sheets-userformat=\"[null,null,899,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0]\">Xamarin Forms enables rapid cross-platform development that targets iOS, Android and Windows Phone 8. With Xamarin Forms you can share the code for both the UI and the logic that drives it. In this session, we will cover introduce the UI framework, the project structure, and the basic components you use to build applications.</span></p>",
+            "speakers": [
+                "47d899a7e5254fbc888f89d124680ac4"
+            ]
+        },
+        {
+            "id": "105278706cf74d67bf20385704e0fdea",
+            "title": "Intro to Cross-platform Mobile Development",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;A major goal in Xamarin development is to maximize the code shared between your different platforms so you only have to write and debug it once. This session will look at different code sharing strategies and effective patterns in dealing with platform specific features in your shared code.&quot;]\" data-sheets-userformat=\"[null,null,899,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0]\">A major goal in Xamarin development is to maximize the code shared between your different platforms so you only have to write and debug it once. This session will look at different code sharing strategies and effective patterns in dealing with platform specific features in your shared code.</span></p>",
+            "speakers": [
+                "fbb575f847c042f7a8d67124939f93a5"
+            ]
+        },
+        {
+            "id": "cd7d339fdf844c92b8842931d89c61c7",
+            "title": "Workshop - Fundamentals",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Lab workshop time - come and work on our pre-defined lab exercises, or on your own applications, and ask questions of our certified developer lab monitors!&quot;]\" data-sheets-userformat=\"[null,null,897,[null,0],null,null,null,null,null,null,1,1,0]\">Lab workshop time - come and work on our pre-defined lab exercises, or on your own applications, and ask questions of our certified developer lab monitors!</span></p>",
+            "speakers": [
+                "02a2d869f98a416f865bb8c073c66b9e"
+            ]
+        },
+        {
+            "id": "ac2b63291c81454993451be02c495e0b",
+            "title": "XAML in Xamarin.Forms - Fundamentals",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;You can create your UI for Xamarin.Forms applications in code, but another supported approach is to create the UI declaratively using XAML. We will explore the XAML support in Xamarin.Forms, how to add pages, provide behavior and even change property values in a device-specific fashion.&quot;]\" data-sheets-userformat=\"[null,null,899,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0]\">You can create your UI for Xamarin.Forms applications in code, but another supported approach is to create the UI declaratively using XAML. We will explore the XAML support in Xamarin.Forms, how to add pages, provide behavior and even change property values in a device-specific fashion.</span></p>",
+            "speakers": [
+                "fbb575f847c042f7a8d67124939f93a5"
+            ]
+        },
+        {
+            "id": "1d75342a0b364b0592219854acc2cce5",
+            "title": "Data Binding in Xamarin.Forms - Fundamentals",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;In this session, we will explore how to use data binding in Xamarin.Forms, connecting model objects to our user interface using both code and markup. We will discuss the various options available when creating and configuring bindings and how to properly utilize the system to create two-way binding scenarios.&quot;]\" data-sheets-userformat=\"[null,null,9091,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0,null,null,null,10]\">In this session, we will explore how to use data binding in Xamarin.Forms, connecting model objects to our user interface using both code and markup. We will discuss the various options available when creating and configuring bindings and how to properly utilize the system to create two-way binding scenarios.</span></p>",
+            "speakers": [
+                "5b8b780878484d7bb2a70c5ca3509180"
+            ]
+        },
+        {
+            "id": "5aee6467bd0849fdaf16d788fc22635f",
+            "title": "Publishing to Test Cloud",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;This class demonstrates how to prepare an existing iOS or Android app to upload it to Test Cloud. You will then see the app work through the acceptance tests on a variety of actual devices and learn how to analyse the results of those tests.  &quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">This class demonstrates how to prepare an existing iOS or Android app to upload it to Test Cloud. You will then see the app work through the acceptance tests on a variety of actual devices and learn how to analyze the results of those tests. &nbsp;</span></p>",
+            "speakers": [
+                "8981e9641ff7493188853173b9958264"
+            ]
+        },
+        {
+            "id": "ba17dee3edd74928a5601b4435edce81",
+            "title": "Workshop - Testing",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Lab workshop time - come and work on our pre-defined lab exercises, or on your own applications, and ask questions of our certified developer lab monitors!&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Lab workshop time - come and work on our pre-defined lab exercises, or on your own applications, and ask questions of our certified developer lab monitors!</span></p>",
+            "speakers": [
+                "02a2d869f98a416f865bb8c073c66b9e"
+            ]
+        },
+        {
+            "id": "829ecb2d73b84ae195f6fc08bed0266a",
+            "title": "Writing Xamarin.UI Tests",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Come learn how to use Xamarin.UITest to automate the execution of existing iOS and Android apps. We will talk about the creation of acceptance, behavior and regression tests and explore how the Xamarin.UITest tooling can be used to speed the development of your acceptance tests.&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Come learn how to use Xamarin.UITest to automate the execution of existing iOS and Android apps. We will talk about the creation of acceptance, behavior and regression tests and explore how the Xamarin.UITest tooling can be used to speed the development of your acceptance tests.</span></p>",
+            "speakers": [
+                "5b8b780878484d7bb2a70c5ca3509180"
+            ]
+        },
+        {
+            "id": "49ab46635dae46a9a78b58150fee4fb0",
+            "title": "Intro to Testing / Unit Testing",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Testing is perhaps the most important part of the development process. Applications that frequently crash, destory data or misbehave won't last long on user's devices! This session introduces the concepts of testing, testing frameworks and how to develop a set of tests to improve the quality of your apps.&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Testing is perhaps the most important part of the development process. Applications that frequently crash, destory data or misbehave won't last long on user's devices! This session introduces the concepts of testing, testing frameworks and how to develop a set of tests to improve the quality of your apps.</span></p>",
+            "speakers": [
+                "8981e9641ff7493188853173b9958264"
+            ]
+        },
+        {
+            "id": "a88e3556f3544608b293388faa3103c3",
+            "title": "Continuous Integration with Test Cloud",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Continuous Integration (CI) can improve the quality of your application by finding bugs faster. In this talk we will introduce the software engineering practice of Continous Integration (CI) and how it can be used to help create better software. We will discuss some of the tools involved and go over the steps necessary to setup a CI server.&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Continuous Integration (CI) can improve the quality of your application by finding bugs faster. In this talk we will introduce the software engineering practice of Continous Integration (CI) and how it can be used to help create better software. We will discuss some of the tools involved and go over the steps necessary to setup a CI server.</span></p>",
+            "speakers": [
+                "9482ec950fbc410284506d5e77427763"
+            ]
+        },
+        {
+            "id": "0c8ed14f24604e888567e3db224e11a7",
+            "title": "Publishing an App",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;In this session, we are going walk through the process of preparing applications for release on the App Store, Google Play and the Windows Phone Store.  We'll explore build settings, app store requirements and application resources like icons and launch images.&quot;]\" data-sheets-userformat=\"[null,null,899,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0]\">In this session, we are going walk through the process of preparing applications for release on the App Store, Google Play and the Windows Phone Store. We'll explore build settings, app store requirements and application resources like icons and launch images.</span></p>",
+            "speakers": [
+                "161cabf9159345ac89465475d4940b79"
+            ]
+        },
+        {
+            "id": "a8d8de88417c4be197e816a26f0b7829",
+            "title": "Intro to Xamarin.Forms",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Xamarin Forms enables rapid cross-platform development that targets iOS, Android and Windows Phone 8. With Xamarin Forms you can share the code for both the UI and the logic that drives it. In this session, we will cover introduce the UI framework, the project structure, and the basic components you use to build applications.&quot;]\" data-sheets-userformat=\"[null,null,899,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0]\">Xamarin Forms enables rapid cross-platform development that targets iOS, Android and Windows Phone 8. With Xamarin Forms you can share the code for both the UI and the logic that drives it. In this session, we will cover introduce the UI framework, the project structure, and the basic components you use to build applications.</span></p>",
+            "speakers": [
+                "47d899a7e5254fbc888f89d124680ac4"
+            ]
+        },
+        {
+            "id": "b9212b62408041c1aa8cb866f5c384a9",
+            "title": "XAML in Xamarin.Forms",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;You can create your UI for Xamarin.Forms applications in code, but another supported approach is to create the UI declaratively using XAML. We will explore the XAML support in Xamarin.Forms, how to add pages, provide behavior and even change property values in a device-specific fashion.&quot;]\" data-sheets-userformat=\"[null,null,899,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0]\">You can create your UI for Xamarin.Forms applications in code, but another supported approach is to create the UI declaratively using XAML. We will explore the XAML support in Xamarin.Forms, how to add pages, provide behavior and even change property values in a device-specific fashion.</span></p>",
+            "speakers": [
+                "fbb575f847c042f7a8d67124939f93a5"
+            ]
+        },
+        {
+            "id": "bf32cdd7c7924479b5c4afae0722f738",
+            "title": "Data Binding in Xamarin.Forms",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;In this session, we will explore how to use data binding in Xamarin.Forms, connecting model objects to our user interface using both code and markup. We will discuss the various options available when creating and configuring bindings and how to properly utilize the system to create two-way binding scenarios.&quot;]\" data-sheets-userformat=\"[null,null,9091,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0,null,null,null,10]\">In this session, we will explore how to use data binding in Xamarin.Forms, connecting model objects to our user interface using both code and markup. We will discuss the various options available when creating and configuring bindings and how to properly utilize the system to create two-way binding scenarios.</span></p>",
+            "speakers": [
+                "5b8b780878484d7bb2a70c5ca3509180"
+            ]
+        },
+        {
+            "id": "2f78b8b9d9ea4fe491ed90779143228b",
+            "title": "Extending Xamarin.Forms",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Xamarin.Forms has the basic set of controls you need to build your UIs, but there’s always room for more. This class dives into how to create custom controls for Xamarin.Forms, how to expose events and behavior from those controls, and how to make your controls integrate tightly with the XAML parser.\n&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Xamarin.Forms has the basic set of controls you need to build your UIs, but there's always room for more. This class dives into how to create custom controls for Xamarin.Forms, how to expose events and behavior from those controls, and how to make your controls integrate tightly with the XAML parser.<br /></span></p>",
+            "speakers": [
+                "8981e9641ff7493188853173b9958264"
+            ]
+        },
+        {
+            "id": "dbbb1a1295de4a649268b35a9fb0f54e",
+            "title": "Xamarin.Forms Navigation",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Delight your users with familiar navigation patterns such as Stacked, Tabbed, Carousel and Master/Detail using Xamarin.Forms. We will explore how to structure our applications to support these common user interface navigation metaphors and use them effectively.\n&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Delight your users with familiar navigation patterns such as Stacked, Tabbed, Carousel and Master/Detail using Xamarin.Forms. We will explore how to structure our applications to support these common user interface navigation metaphors and use them effectively.<br /></span></p>",
+            "speakers": [
+                "5b8b780878484d7bb2a70c5ca3509180"
+            ]
+        },
+        {
+            "id": "48744307d43f42e0a11b4bb498bb469b",
+            "title": "Localization",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;There is an enormous market for mobile apps that speaks a different language to you! In this class we'll discuss the concepts of internationalization and localization, then dive into solutions for adding mutliple language support to Xamarin applications (including Xamarin.Forms).&quot;]\" data-sheets-userformat=\"[null,null,897,[null,0],null,null,null,null,null,null,1,1,0]\">There is an enormous market for mobile apps that speaks a different language to you! In this class we'll discuss the concepts of internationalization and localization, then dive into solutions for adding mutliple language support to Xamarin applications (including Xamarin.Forms).</span></p>",
+            "speakers": [
+                "1613ccfd17b94fe7888e83552aaf0a7f"
+            ]
+        },
+        {
+            "id": "531e29657eee4fb78e131a9dfc0837a7",
+            "title": "Xamarin.Forms Navigation - Fundamentals",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Delight your users with familiar navigation patterns such as Stacked, Tabbed, Carousel and Master/Detail using Xamarin.Forms. We will explore how to structure our applications to support these common user interface navigation metaphors and use them effectively.\n&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Delight your users with familiar navigation patterns such as Stacked, Tabbed, Carousel and Master/Detail using Xamarin.Forms. We will explore how to structure our applications to support these common user interface navigation metaphors and use them effectively.<br /></span></p>",
+            "speakers": [
+                "6575e71ba5474da09ffdde3848bc0316"
+            ]
+        },
+        {
+            "id": "1376f90a5aa84d9abf43b18df14731a3",
+            "title": "SQLite and Mobile Data",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Almost every application will need to manage data on the device. Luckily, every mobile platforms supports the open source relational database named SQLite. This class will explore using SQLite for persistent data, along with the SQLite.Net ORM for cross platform data access.&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Almost every application will need to manage data on the device. Luckily, every mobile platforms supports the open source relational database named SQLite. This class will explore using SQLite for persistent data, along with the SQLite.Net ORM for cross platform data access.</span></p>",
+            "speakers": [
+                "fbb575f847c042f7a8d67124939f93a5"
+            ]
+        },
+        {
+            "id": "b120c217a12042668303218216bf00ab",
+            "title": "Web Services - Fundamentals",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Mobile applications often need to access and consume data from outside services and in this session we will explore how to integrate with and use web services in our mobile applications. We will look at both RESTful services and SOAP-based services using the built in WCF support in the framework.\n&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Mobile applications often need to access and consume data from outside services and in this session we will explore how to integrate with and use web services in our mobile applications. We will look at both RESTful services and SOAP-based services using the built in WCF support in the framework.<br /></span></p>",
+            "speakers": [
+                "47d899a7e5254fbc888f89d124680ac4"
+            ]
+        },
+        {
+            "id": "c9198ff0b729474080b3a9d6e637119e",
+            "title": "Extending Xamarin.Forms - Fundamentals",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Xamarin.Forms has the basic set of controls you need to build your UIs, but there’s always room for more. This class dives into how to create custom controls for Xamarin.Forms, how to expose events and behavior from those controls, and how to make your controls integrate tightly with the XAML parser.\n&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Xamarin.Forms has the basic set of controls you need to build your UIs, but there's always room for more. This class dives into how to create custom controls for Xamarin.Forms, how to expose events and behavior from those controls, and how to make your controls integrate tightly with the XAML parser.<br /></span></p>",
+            "speakers": [
+                "8981e9641ff7493188853173b9958264"
+            ]
+        },
+        {
+            "id": "cb581f928c6040bca57378ae689634c9",
+            "title": "Workshop - Day 2 - Fundamentals",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Lab workshop time - come and work on our pre-defined lab exercises, or on your own applications, and ask questions of our certified developer lab monitors!&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Lab workshop time - come and work on our pre-defined lab exercises, or on your own applications, and ask questions of our certified developer lab monitors!</span></p>",
+            "speakers": [
+                "02a2d869f98a416f865bb8c073c66b9e"
+            ]
+        },
+        {
+            "id": "555f04ffa31543bdb271daaa886911c5",
+            "title": "Publishing an App - Fundamentals",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;In this session, we are going walk through the process of preparing applications for release on the App Store, Google Play and the Windows Phone Store.  We'll explore build settings, app store requirements and application resources like icons and launch images.&quot;]\" data-sheets-userformat=\"[null,null,899,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0]\">In this session, we are going walk through the process of preparing applications for release on the App Store, Google Play and the Windows Phone Store. We'll explore build settings, app store requirements and application resources like icons and launch images.</span></p>",
+            "speakers": [
+                "161cabf9159345ac89465475d4940b79"
+            ]
+        },
+        {
+            "id": "73eae2a470d144a1be1ef1e6296a7671",
+            "title": "UI Design and Layout",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;This class introduces the brand new iOS 8 feature: Universal Storyboards.  Learn how to create a single storyboard that works on all iOS 8 devices and discuss the new iOS 8 UI concepts of Size Classes and Traits.&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">This class introduces the brand new iOS 8 feature: Universal Storyboards. Learn how to create a single storyboard that works on all iOS 8 devices and discuss the new iOS 8 UI concepts of Size Classes and Traits.</span></p>",
+            "speakers": [
+                "161cabf9159345ac89465475d4940b79"
+            ]
+        },
+        {
+            "id": "d344369f71f9437d884e7dbca1800869",
+            "title": "Maps - iOS",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Maps and location in the palm of our hands have changed the way that we interact with the world. It's hard to imagine navigating without our smartphone these days. in this course we'll examine how to embed and use the MapKit framework within our iOS applications, as well as how to get location data, add map overlays, and more.&quot;]\" data-sheets-userformat=\"[null,null,9091,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0,null,null,null,10]\">Maps and location in the palm of our hands have changed the way that we interact with the world. It's hard to imagine navigating without our smartphone these days. In this course we'll examine how to embed and use the MapKit framework within our iOS applications, as well as how to get location data, add map overlays, and more.</span></p>",
+            "speakers": [
+                "6575e71ba5474da09ffdde3848bc0316"
+            ]
+        },
+        {
+            "id": "dc37391f19b044b6bc0e280e1c880615",
+            "title": "Navigation Patterns - iOS",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Stacks, tabs, flyouts, oh my! This class introduces the most common user interface navigation metaphors on iOS. Also examines the most appropriate uses for each and how to implement them in Xamarin apps.&quot;]\" data-sheets-userformat=\"[null,null,9089,[null,0],null,null,null,null,null,null,1,1,0,null,null,null,10]\">Stacks, tabs, flyouts, oh my! This class introduces the most common user interface navigation metaphors on iOS. Also examines the most appropriate uses for each and how to implement them in Xamarin apps.</span></p>",
+            "speakers": [
+                "6575e71ba5474da09ffdde3848bc0316"
+            ]
+        },
+        {
+            "id": "7e66283b2ac14574a1fd1f1a1fab8650",
+            "title": "Touch - iOS",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Capacitive Multitouch interfaces on smartphones have become a staple. But using them effectively can be a challenge. We examine how touch works in iOS and cover UIView based touch events, built-in gestures, and create custom gestures that will enhance the UX of our applications.&quot;]\" data-sheets-userformat=\"[null,null,9155,[null,0],[null,2,16777215],null,null,null,null,0,1,1,0,null,null,null,10]\">Capacitive Multitouch interfaces on smartphones have become a staple. But using them effectively can be a challenge. We examine how touch works in iOS and cover UIView based touch events, built-in gestures, and create custom gestures that will enhance the UX of our applications.</span></p>",
+            "speakers": [
+                "5b8b780878484d7bb2a70c5ca3509180"
+            ]
+        },
+        {
+            "id": "631821a9b4b7413291d2c1e7575fb5eb",
+            "title": "Backgrounding- iOS",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Learn how to perform background tasks on iOS, ensuring your apps remain responsive and can complete important operations even when they aren't visible to the user.&quot;]\" data-sheets-userformat=\"[null,null,9091,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0,null,null,null,10]\">Learn how to perform background tasks on iOS, ensuring your apps remain responsive and can complete important operations even when they aren't visible to the user.</span></p>",
+            "speakers": [
+                "47d899a7e5254fbc888f89d124680ac4"
+            ]
+        },
+        {
+            "id": "3781db76b8b543239bbda7db23c863f6",
+            "title": "Performance - iOS",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Introduces the garbage collector and provides specific advice for iOS applications to ensure your apps use memory efficiently. Also covers linking and how to diagnose memory issues.&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Introduces the garbage collector and provides specific advice for iOS applications to ensure your apps use memory efficiently. Also covers linking and how to diagnose memory issues.</span></p>",
+            "speakers": [
+                "8981e9641ff7493188853173b9958264"
+            ]
+        },
+        {
+            "id": "5b16967c1c7146b8ad05647d181814bc",
+            "title": "UI Design and Fragmentation",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;From big phones to little phones, tablets, and wearables, Android runs on devices of all shapes and sizes. In this course, we will learn how to optimize our application’s resources and design dynamic UIs using fragments that will look great across multiple devices.&quot;]\" data-sheets-userformat=\"[null,null,9089,[null,0],null,null,null,null,null,null,1,1,0,null,null,null,10]\">From big phones to little phones, tablets, and wearables, Android runs on devices of all shapes and sizes. In this course, we will learn how to optimize our application's resources and design dynamic UIs using fragments that will look great across multiple devices.</span></p>",
+            "speakers": [
+                "ca8dd8719426448cba908d34cd977413"
+            ]
+        },
+        {
+            "id": "ca6c32d8bd114534a4453ff3576a5d8f",
+            "title": "Touch - Android",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Capacitive Multitouch interfaces on smartphones have become a staple. But using them effectively can be a challenge. This class examines how touch works in Android and covers View based touch events, built-in gestures, and creating custom gestures that will enhance the UX of your apps.&quot;]\" data-sheets-userformat=\"[null,null,9091,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0,null,null,null,10]\">Capacitive Multitouch interfaces on smartphones have become a staple. But using them effectively can be a challenge. This class examines how touch works in Android and covers View based touch events, built-in gestures, and creating custom gestures that will enhance the UX of your apps.</span></p>",
+            "speakers": [
+                "d36bb48f470043be8752b0c759149c03"
+            ]
+        },
+        {
+            "id": "4a19e24ec5704950bf504f218fb12b93",
+            "title": "Maps - Android",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Maps and location in the palm of our hands have changed the way that we interact with the world. It's hard to imagine navigating without our smartphones. in this course we'll examine how to embed and use the Google Maps API in our Android applications, as well as how to get location data, add map markers, and add overlays. &quot;]\" data-sheets-userformat=\"[null,null,9091,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0,null,null,null,10]\">Maps and location in the palm of our hands have changed the way that we interact with the world. It's hard to imagine navigating without our smartphones. in this course we'll examine how to embed and use the Google Maps API in our Android applications, as well as how to get location data, add map markers, and add overlays.</span></p>",
+            "speakers": [
+                "161cabf9159345ac89465475d4940b79"
+            ]
+        },
+        {
+            "id": "4c9f1cd2e35b4c4e9183a01220190ae4",
+            "title": "Navigation - Android",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;With so many ways to navigate around an app, it can be hard to decide when and how to use the right navigation patterns. In this course, we will discuss some of the most common Android navigation patterns and learn how to implement them in our apps.&quot;]\" data-sheets-userformat=\"[null,null,9089,[null,0],null,null,null,null,null,null,1,1,0,null,null,null,10]\">With so many ways to navigate around an app, it can be hard to decide when and how to use the right navigation patterns. In this course, we will discuss some of the most common Android navigation patterns and learn how to implement them in our apps.</span></p>",
+            "speakers": [
+                "ca8dd8719426448cba908d34cd977413"
+            ]
+        },
+        {
+            "id": "45f87243d54d45e38462126f1867531f",
+            "title": "Backgrounding- Android",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Discusses how to perform background tasks on Android, ensuring your apps remain responsive and can complete important operations even when they aren't visible to the user.&quot;]\" data-sheets-userformat=\"[null,null,9091,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0,null,null,null,10]\">Discusses how to perform background tasks on Android, ensuring your apps remain responsive and can complete important operations even when they aren't visible to the user.</span></p>",
+            "speakers": [
+                "161cabf9159345ac89465475d4940b79"
+            ]
+        },
+        {
+            "id": "eb1951ef90454e5b8703caf7c7b92783",
+            "title": "Performance - Android",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Users expect the apps they use to be quick and responsive to thier input. Delays of even milliseconds can cause users to abandon an app and never come back.  In this class, we will investigate some ways to ensure that your app delivers a fast and fluid interface. We will discuss memory management, view caching, and using async/await in your Android apps.&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Users expect the apps they use to be quick and responsive to thier input. Delays of even milliseconds can cause users to abandon an app and never come back. In this class, we will investigate some ways to ensure that your app delivers a fast and fluid interface. We will discuss memory management, view caching, and using async/await in your Android apps.</span></p>",
+            "speakers": [
+                "6575e71ba5474da09ffdde3848bc0316"
+            ]
+        },
+        {
+            "id": "adf322d3d3de44cebc6fd8750b1ebdd5",
+            "title": "Working with REST and SOAP based Web Services",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;This class examines how to integrate with and use web services in mobile applications. It looks at both RESTful and SOAP-based web service integration using WCF.\n&quot;]\" data-sheets-userformat=\"[null,null,897,[null,0],null,null,null,null,null,null,1,1,0]\">This class examines how to integrate with and use web services in mobile applications. It looks at both RESTful and SOAP-based web service integration using WCF.<br /></span></p>",
+            "speakers": [
+                "47d899a7e5254fbc888f89d124680ac4"
+            ]
+        },
+        {
+            "id": "eb7d66d56bd54bcba69327b50c9367e6",
+            "title": "Data Caching and Synchronization",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Being disconnected from the cloud but caching local data that synchronizes upon reconnection is a common scenario in Enterprise applications. In this class we're going to look at the change of local data caching and synchronization from a general problem, and then examine some frameworks that attempt to solve this challenge.&quot;]\" data-sheets-userformat=\"[null,null,9091,[null,0],[null,2,16777215],null,null,null,null,null,1,1,0,null,null,null,10]\">Being disconnected from the cloud but caching local data that synchronizes upon reconnection is a common scenario in Enterprise applications. In this class we're going to look at the change of local data caching and synchronization from a general problem, and then examine some frameworks that attempt to solve this challenge.</span></p>",
+            "speakers": [
+                "8981e9641ff7493188853173b9958264"
+            ]
+        },
+        {
+            "id": "ea3a960db2304008843ba1e55e17d788",
+            "title": "Working w/Cloud Services - Parse, Azure, Dropbox",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Discover how to easily wire up some popular cloud-based data storage solutions into your mobile apps. We'll look at the architecture of a cloud-based app in general and then see how to use Xamarin Components or NuGet Packages to write shared code that stores data using Azure, Parse and Dropbox.&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Discover how to easily wire up some popular cloud-based data storage solutions into your mobile apps. We'll look at the architecture of a cloud-based app in general and then see how to use Xamarin Components or NuGet Packages to write shared code that stores data using Azure, Parse and Dropbox.</span></p>",
+            "speakers": [
+                "1613ccfd17b94fe7888e83552aaf0a7f"
+            ]
+        },
+        {
+            "id": "3f426e4ed402419aa003bfe84f0fdb3b",
+            "title": "Integrating w/Salesforce",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Learn how to incorporate the Salesforce SDK into Xamarin applications to provide a sophisticated mobile experience to your employees and/or customers.&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Learn how to incorporate the Salesforce SDK into Xamarin applications to provide a sophisticated mobile experience to your employees and/or customers.</span></p>",
+            "speakers": [
+                "1613ccfd17b94fe7888e83552aaf0a7f"
+            ]
+        },
+        {
+            "id": "9bc397ae47154fb89b81334b431af196",
+            "title": "Mobile Security",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Explores the importance of securing user data in our mobile applications and provides an introduction to encrypting data.  Also discusses OAuth authentication using Xamarin.Auth.&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Explores the importance of securing user data in our mobile applications and provides an introduction to encrypting data. Also discusses OAuth authentication using Xamarin.Auth.</span></p>",
+            "speakers": [
+                "161cabf9159345ac89465475d4940b79"
+            ]
+        },
+        {
+            "id": "35b9e4eeaeb8468388ebcecbdd8316c4",
+            "title": "Workshop - Enterprise Development",
+            "description": "<p><span data-sheets-value=\"[null,2,&quot;Lab workshop time - come and work on our pre-defined lab exercises, or on your own applications, and ask questions of our certified developer lab monitors!&quot;]\" data-sheets-userformat=\"[null,null,13185,[null,0],null,null,null,null,null,null,1,1,0,null,null,&quot;arial,sans,sans-serif&quot;,10]\">Lab workshop time - come and work on our pre-defined lab exercises, or on your own applications, and ask questions of our certified developer lab monitors!</span></p>",
+            "speakers": [
+                "02a2d869f98a416f865bb8c073c66b9e"
+            ]
+        },
+        {
+            "id": "7c10f8576bf343fdb996abec899e4ad5",
+            "title": "Lightning Talks",
+            "description": null,
+            "speakers": []
+        },
+        {
+            "id": "47e87cee86804ad8abb9da83a2849446",
+            "title": "Unleash Your Inner Evangelist",
+            "description": "<p><span>How you represent yourself determines how much money, time, and recognition you get in life. Terry Gault from The Henderson Group will teach you how to present yourself with much more confidence using storytelling and message structure techniques that will help you speak in a concise, high-impact, and memorable way. </span></p>",
+            "speakers": [
+                "923df3f9e18d4eb69058db136bb58e9f"
+            ]
+        },
+        {
+            "id": "b6e27ad97f2545f387331c43634ab57d",
+            "title": "Mega Trends in Mobile: Enterprise Mobility State of the Industry",
+            "description": "<p><span>Enterprise development has been traditionally viewed as boring -- fortunately mobile is changing that model. Bridging the leading edge of consumer technology with the demands of the business is the looming enterprise development challenge. Join Mike Facemire, Principal Analyst at Forrester Research (and life-long developer) to take a look at where businesses are with regards to mobile from a developer perspective. We'll talk about how things are changing from both a tools and process perspective, what skills are (and will be) in demand, and what development leaders are focusing on to address the (sometimes insane) challenges around time-to-market and mobile quality!</span></p>",
+            "speakers": [
+                "ee60a042e3094708b7e590a11f207558"
+            ]
+        },
+        {
+            "id": "fcd9947f671b4b3c88037810a625fc2e",
+            "title": "A Behind the Scenes Insight into Building Leading Mobile Technology for the Hearing Impaired",
+            "description": "<p><span>Accenture and Siemens are paving the way in medical mobile technology. The Siemens easyTek suite of apps enables the hearing impaired to connect to a variety of Bluetooth enabled devices. It also enables them to control the function and comfort of their in-ear hearing instrument. This real-world case study will show you how Accenture built the best mobile technology for the hearing impaired using Xamarin. They will cover the technical lessons learned from their experience, including connecting to multiple hearing device types, working with Android Bluetooth and MFI Accessory, and how to best incorporate continuous integration into the mobile development workflow. </span></p>",
+            "speakers": [
+                "5d2db1f4e19e4633af6a16e0922643ce",
+                "90701c996ae94174ad086429dc083404"
+            ]
+        },
+        {
+            "id": "8c28b0ee62ab4784995e53b5a1554163",
+            "title": "Make Your App Awesome with F#",
+            "description": "<p>Are you object-oriented but functionally curious? Have you wondered about the practical use, in mobile applications, of concepts such as immutability, pattern-matching, and typing? Starting with a side-by-side comparison of simple C# and F# apps, this talk will show functional F# code techniques integrated into the object-oriented world of iOS. Is the hype about F# driven by ideology or is it pragmatic? (Spoiler: a little bit of both.) See where F# code in an app succeeds and where it fails.</p>",
+            "speakers": [
+                "da11939dc91e43109c67e971d07aef8a"
+            ]
+        },
+        {
+            "id": "84f9a98f273c446c93b4fc1cbd5a523a",
+            "title": "Automating Your Games on Test Cloud",
+            "description": "<p><span>Many game developers imagine that automated games testing on device is impossible, or simply not worth the time. With Xamarin Test Cloud, the reality couldn't be further from the truth.</span><br /><br /><span>This session will show developers how to leverage Test Cloud and C# to fully automate game testing across hundreds of iOS and Android devices, regardless of the technology used to develop the game. We will focus on what you should test. As well as how to write useful game tests.</span></p>",
+            "speakers": [
+                "2c0747969aaa45db9b667725f3ccfa02"
+            ]
+        },
+        {
+            "id": "cecffc5c2feb448580808d1e27e295dc",
+            "title": "Xamarin Evolve 2014 Keynote",
+            "description": null,
+            "speakers": [
+                "7b3abd54e3f74a9d9ec928d0feac3acb",
+                "7b3424484ef6417a9d7e5e9e17a8defb"
+            ]
+        },
+        {
+            "id": "1f2ee5f70aec4dd9a0413c5f7be414b1",
+            "title": "Closing Session",
+            "description": "<p>This session will be announced at a later time.</p>",
+            "speakers": [
+                "7b3abd54e3f74a9d9ec928d0feac3acb",
+                "7b3424484ef6417a9d7e5e9e17a8defb"
+            ]
+        },
+        {
+            "id": "96d5ccb9cb274a998f069314865ef5c4",
+            "title": "Effective Navigation for Xamarin.Android",
+            "description": "<p><span>With so many navigation styles in Android, selecting what's perfect for your app can be difficult. There are Tabs, Navigation Drawers, and Dashboards... it can be overwhelming! Join James as he covers best practices for creating elegant navigation patterns for your Xamarin.Android mobile application. Together, you'll take a look at what style of navigation is optimal for different types of apps.</span></p>",
+            "speakers": [
+                "d9cfe16ae13b4a5db229e452235de277"
+            ]
+        },
+        {
+            "id": "f965b60951f74ea389894032b1e7fd07",
+            "title": "Think Like a Hacker! Common Techniques Used to Exploit Mobile Apps and How to Mitigate these Risks",
+            "description": "<p><span>The first step in learning how to protect and defend your applications from hackers is to think like one. During this session, you'll learn just how easy it is for hackers to leverage widely available third party tools to completely disable and compromise mobile apps. This can lead to unauthorized access to source code, tampering of apps to enable advanced malware attacks, stealing of sensitive data or intellectual property, conducting fraud etc.</span></p>",
+            "speakers": [
+                "086c6c802b514acea3741181ab6db2d5"
+            ]
+        },
+        {
+            "id": "5a88edeed9c3441887a14681d11238c6",
+            "title": "No Session Scheduled",
+            "description": "<p>This session will be announced at a later date.</p>",
+            "speakers": []
+        },
+        {
+            "id": "87710591dda9429581943a5152436669",
+            "title": "Lunch",
+            "description": null,
+            "speakers": [
+                "f2a82ccf7e034a4f83e8a1b0dbb1842e"
+            ]
+        },
+        {
+            "id": "20b39b0ba88944d8ab5e1aad8e5bf15e",
+            "title": "One year of Xamarin Development - Lessons Learned",
+            "description": "<p class=\"p1\">Improving... Evolving... &nbsp;Continuously... In the past one year, I had the privilege to work on 3 different projects with Xamarin. A highly demanding Secure Browser app for BYOD for a leading global bank. A graphics intensive wealth management app for another global bank. A most recent PoC for a leading transportation company in the world. I want to share my experiences around the technical challenges, client expectations on these projects and how Xamarin as a technology and more importantly as a team of highly motivated professional individuals partnered with me in this success story.</p>",
+            "speakers": [
+                "962b8066834546c38cf0bc0177ec8165"
+            ]
+        },
+        {
+            "id": "97b0d2d72b0a4327b4dab20b9022e132",
+            "title": "Lunch",
+            "description": null,
+            "speakers": [
+                "f2a82ccf7e034a4f83e8a1b0dbb1842e"
+            ]
+        },
+        {
+            "id": "16b706b20a9a4662a00f2989cdcfa921",
+            "title": "Lunch",
+            "description": null,
+            "speakers": [
+                "f2a82ccf7e034a4f83e8a1b0dbb1842e"
+            ]
+        },
+        {
+            "id": "281d694f3d0a4cb7abf316c8a5c5a079",
+            "title": "Dinner & Drinks at the Georgia Aquarium",
+            "description": null,
+            "speakers": [
+                "f2a82ccf7e034a4f83e8a1b0dbb1842e"
+            ]
+        },
+        {
+            "id": "9f66de3dcc4c4858a4c599990963b6a2",
+            "title": "Conference Welcome Reception",
+            "description": null,
+            "speakers": [
+                "f2a82ccf7e034a4f83e8a1b0dbb1842e"
+            ]
+        },
+        {
+            "id": "08bf61b151fc4902adf4db8d19be9896",
+            "title": "Dinner Event for Training Attendees",
+            "description": null,
+            "speakers": [
+                "f2a82ccf7e034a4f83e8a1b0dbb1842e"
+            ]
+        },
+        {
+            "id": "bda129229582498ca3b632dfef5a8e8f",
+            "title": "Workshop + Ask the Trainers",
+            "description": null,
+            "speakers": [
+                "02a2d869f98a416f865bb8c073c66b9e"
+            ]
+        },
+        {
+            "id": "74a3fb1ef88d4a28828f0d61a26de3be",
+            "title": "Lunch",
+            "description": null,
+            "speakers": [
+                "f2a82ccf7e034a4f83e8a1b0dbb1842e"
+            ]
+        },
+        {
+            "id": "33768b98802d4865820be745f48d1e0e",
+            "title": "Lunch",
+            "description": null,
+            "speakers": [
+                "f2a82ccf7e034a4f83e8a1b0dbb1842e"
+            ]
+        },
+        {
+            "id": "e091ebad19fd421298d91b1557106cd7",
+            "title": "Registration & Breakfast",
+            "description": null,
+            "speakers": [
+                "f2a82ccf7e034a4f83e8a1b0dbb1842e"
+            ]
+        },
+        {
+            "id": "786efe5944d34937ac1430b9c1cca382",
+            "title": "Breakfast",
+            "description": null,
+            "speakers": [
+                "f2a82ccf7e034a4f83e8a1b0dbb1842e"
+            ]
+        },
+        {
+            "id": "9684939ed23c447cadbf37acf4595059",
+            "title": "Kickoff Session",
+            "description": null,
+            "speakers": [
+                "7b3abd54e3f74a9d9ec928d0feac3acb",
+                "bfb6a53013444de9816b50aebe297400"
+            ]
+        },
+        {
+            "id": "d87ee6aa347845bf9328f6cf900690a3",
+            "title": "Breakfast",
+            "description": null,
+            "speakers": [
+                "f2a82ccf7e034a4f83e8a1b0dbb1842e"
+            ]
+        },
+        {
+            "id": "016745c814c442d3bb6c353e249673c2",
+            "title": "Breakfast",
+            "description": null,
+            "speakers": [
+                "f2a82ccf7e034a4f83e8a1b0dbb1842e"
+            ]
+        },
+        {
+            "id": "c5edac63562c4ffaa8b030f7eecca80f",
+            "title": "Breakfast",
+            "description": null,
+            "speakers": [
+                "f2a82ccf7e034a4f83e8a1b0dbb1842e"
+            ]
+        },
+        {
+            "id": "40ef8fb932254001ae605d445810319e",
+            "title": "Getting Started with iOS 8",
+            "description": "<p><span>Make your applications shine by taking advantage of everything iOS 8 has to offer. Join Nish as he gives you the lowdown on how to maximize your user audience by targeting new devices and screen sizes effectively and take advantage the key features of iOS 8 and the new iPhone 6 and iPhone 6+. </span></p>",
+            "speakers": [
+                "1bb1ba18aeeb4ff89e25ae13572214ec"
+            ]
+        },
+        {
+            "id": "87bf905235984a3c94e5d7177ce728f1",
+            "title": "Workshop + Ask the Trainers",
+            "description": null,
+            "speakers": [
+                "02a2d869f98a416f865bb8c073c66b9e"
+            ]
+        },
+        {
+            "id": "ff6f8347841047b39c361e2634fdd92b",
+            "title": "Workshop + Ask the Trainers",
+            "description": null,
+            "speakers": [
+                "02a2d869f98a416f865bb8c073c66b9e"
+            ]
+        },
+        {
+            "id": "926fb26d59bd4298845eafcd5564be9b",
+            "title": "Workshop + Ask the Trainers",
+            "description": null,
+            "speakers": [
+                "02a2d869f98a416f865bb8c073c66b9e"
+            ]
+        },
+        {
+            "id": "3c877409acf449759d77c022a7d9f89b",
+            "title": "Workshop + Ask the Trainers",
+            "description": null,
+            "speakers": [
+                "02a2d869f98a416f865bb8c073c66b9e"
+            ]
+        },
+        {
+            "id": "860152f072bb4752b4d2e9205f6ad4b7",
+            "title": "Workshop + Ask the Trainers",
+            "description": null,
+            "speakers": [
+                "02a2d869f98a416f865bb8c073c66b9e"
+            ]
+        },
+        {
+            "id": "05c6f8b4efdf4258bbc327d060b02d10",
+            "title": "Workshop + Ask the Trainers",
+            "description": null,
+            "speakers": [
+                "02a2d869f98a416f865bb8c073c66b9e"
+            ]
+        },
+        {
+            "id": "bd5b3c505b1f44baa4be6296c820bd5e",
+            "title": "Extending Xamarin.Forms",
+            "description": "<p><span>Xamarin.Forms has the basic set of controls you need to build your UIs, but there's always room for more. This class dives into how to create custom controls for Xamarin.Forms, how to expose events and behavior from those controls, and how to make your controls integrate tightly with the XAML parser.</span></p>",
+            "speakers": [
+                "6575e71ba5474da09ffdde3848bc0316"
+            ]
+        },
+        {
+            "id": "c09eab769e374376b9fa9aed8b369d14",
+            "title": "Data Binding in Xamarin.Forms",
+            "description": "<p><span>In this session, we will explore how to use data binding in Xamarin.Forms, connecting model objects to our user interface using both code and markup. We will discuss the various options available when creating and configuring bindings and how to properly utilize the system to create two-way binding scenarios.</span></p>",
+            "speakers": [
+                "5b8b780878484d7bb2a70c5ca3509180"
+            ]
+        },
+        {
+            "id": "151e2a754f6e4967ad714a686d3deabc",
+            "title": "Xamarin.Forms Navigation",
+            "description": "<p><span>Delight your users with familiar navigation patterns such as Stacked, Tabbed, Carousel and Master/Detail using Xamarin.Forms. We will explore how to structure our applications to support these common user interface navigation metaphors and use them effectively.</span></p>",
+            "speakers": [
+                "6575e71ba5474da09ffdde3848bc0316"
+            ]
+        },
+        {
+            "id": "4525f2cde4174b7d8177e4a58591b8fe",
+            "title": "Localization",
+            "description": "<p><span>There is an enormous market for mobile apps that speaks a different language to you! In this class we'll discuss the concepts of internationalization and localization, then dive into solutions for adding mutliple language support to Xamarin applications (including Xamarin.Forms).</span></p>",
+            "speakers": [
+                "fbb575f847c042f7a8d67124939f93a5"
+            ]
+        },
+        {
+            "id": "34f3801e80a446faae3bd1075a37c13b",
+            "title": "Workshop + Ask the Trainers",
+            "description": null,
+            "speakers": [
+                "02a2d869f98a416f865bb8c073c66b9e"
+            ]
+        },
+        {
+            "id": "ea2d9ef69702411ab9d463b7281844c1",
+            "title": "XAML in Xamarin.Forms",
+            "description": "<p><span>You can create your UI for Xamarin.Forms applications in code, but another supported approach is to create the UI declaratively using XAML. We will explore the XAML support in Xamarin.Forms, how to add pages, provide behavior and even change property values in a device-specific fashion.</span></p>",
+            "speakers": [
+                "fbb575f847c042f7a8d67124939f93a5"
+            ]
+        },
+        {
+            "id": "eb210c9405e9491c81229ce1a855588a",
+            "title": "Introduction to Xamarin.Forms",
+            "description": "<p><span>Xamarin Forms enables rapid cross-platform development that targets iOS, Android and Windows Phone 8. With Xamarin Forms you can share the code for both the UI and the logic that drives it. In this session, we will cover introduce the UI framework, the project structure, and the basic components you use to build applications.</span></p>",
+            "speakers": [
+                "47d899a7e5254fbc888f89d124680ac4"
+            ]
+        },
+        {
+            "id": "5c9121f9a1c54ab98a5ba267c6396ce4",
+            "title": "Morning Break",
+            "description": "<p>Grab a snack in the Sponsor Lounge!</p>",
+            "speakers": []
+        },
+        {
+            "id": "d1a8059955cc46ba86da8ce664a44473",
+            "title": "Getting Fit with Xamarin (or How I Lost Weight with C#)",
+            "description": "<p><span>Given 40 hours, could you make an app that was both useful and profitable? In this presentation, Ben Bishop will share his experience building a fitness app using Xamarin to answer this question. This talk will cover how an app idea forged in the fires of Pinterest led to paying five figure client projects for&nbsp;</span><span class=\"il\">Rendr</span><span>. Topics will include ideation, marketing, and localization as well as technical and aesthetic design.</span></p>",
+            "speakers": [
+                "2196a57ecc3e406898e1eb9985c0e524"
+            ]
+        },
+        {
+            "id": "4f6be6f5e36346a59e6802644bf6ba38",
+            "title": "Morning Break",
+            "description": "<p>Grab a snack in the Sponsor Lounge!</p>",
+            "speakers": []
+        },
+        {
+            "id": "590795a74eaf46f3a111d2ad996d64c5",
+            "title": "Morning Break",
+            "description": null,
+            "speakers": []
+        },
+        {
+            "id": "fbd42357a48a4c1396fc726db1a37184",
+            "title": "Afternoon Break",
+            "description": "<p>Grab a snack in the Sponsor Lounge!</p>",
+            "speakers": []
+        },
+        {
+            "id": "58b27ac0d24f4995879f3602c28aa6eb",
+            "title": "Afternoon Break",
+            "description": "<p>Grab a snack in the Sponsor Lounge!</p>",
+            "speakers": []
+        },
+        {
+            "id": "3689b18444dd403fa6ad5e9fef5f9f6e",
+            "title": "Cocktail Hour in the Sponsor Lounge",
+            "description": "<p>Join us in the Sponsor Lounge for drinks before our evening event begins.</p>",
+            "speakers": []
+        },
+        {
+            "id": "f9b184f5ab464e438126231607f13a28",
+            "title": "Stephen and Nina Talk About Profiling",
+            "description": "<div id=\"file-gistfile1-txt-LC6\" class=\"line\">Always dreamed of being on a talk show, but didn't want to miss out on the latest Xamarin technology? Now's your chance to combine your two passions as you join the studio audience of our brand new (completely fake) talk show, \"Let's Talk Tech! with Stephen and Nina\". Join your hosts Stephen Shaw (developer) and Nina Vyedin (program manager) as we dive into the world of profiling - sharing stories, consulting experts, and profiling apps!</div>\r\n<div id=\"file-gistfile1-txt-LC7\" class=\"line\">&nbsp;</div>\r\n<div id=\"file-gistfile1-txt-LC8\" class=\"line\">This session will feature:</div>\r\n<div id=\"file-gistfile1-txt-LC9\" class=\"line\">Introduction to the Profiler and the feature set of the preview release</div>\r\n<div id=\"file-gistfile1-txt-LC10\" class=\"line\">Interviews with Xamarin developers</div>\r\n<div id=\"file-gistfile1-txt-LC11\" class=\"line\">Demos</div>\r\n<div id=\"file-gistfile1-txt-LC12\" class=\"line\">Free giveaways of priceless knowledge! (and other stuff)</div>\r\n<div id=\"file-gistfile1-txt-LC13\" class=\"line\">Q&amp;A with the team</div>\r\n<div id=\"file-gistfile1-txt-LC14\" class=\"line\">&nbsp;</div>\r\n<div id=\"file-gistfile1-txt-LC15\" class=\"line\">Part tech talk, part daytime television, this is the introduction to the Xamarin Profiler you've been waiting for.</div>",
+            "speakers": [
+                "c8b3f06d043d4126ab6cf243a28de505",
+                "e425a9b3fd6a4c3a873236d1299ce9b4"
+            ]
+        },
+        {
+            "id": "0f498cf5c80c464cbd6b3d60f82070ae",
+            "title": "Sketches: A Rich and Interactive Way to Explore Xamarin",
+            "description": "<div>Discover a new way to learn iOS, Mac, and Android development as well as a fast way to explore new APIs and iterate on features without having to first build and run a project.</div>\r\n<div>&nbsp;</div>\r\n<div>Learn how rapidly you can iterate on your next great idea with Sketches, which display rich feedback about your code as it runs in real time, directly from your IDE. Sketches are ideal for experimenting with new language features, exploring platform APIs, developing algorithms, and much more.</div>",
+            "speakers": [
+                "b0a1cec076bb4d3db1ae38a12b8ca581"
+            ]
+        },
+        {
+            "id": "49f5406a24b34e42b4b794e5d8e1b1f8",
+            "title": "Southern BBQ at the Freight Depot ",
+            "description": "<p>Due to weather, we've moved our Southern BBQ tonight to an in door location at the beautiful downtown Georgia Railroad Freight Depot. Come enjoy dinner, drinks, and games at the oldest building in downtown Atlanta. Busses will start leaving from the corner of Peachtree and Baker at 7pm.</p>",
+            "speakers": [
+                "f2a82ccf7e034a4f83e8a1b0dbb1842e"
+            ]
+        }
+    ],
+    "sponsors": [],
+    "created": true
+}

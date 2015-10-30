@@ -1,0 +1,58 @@
+.EventLayout{}
+
+.event-section-appear {
+  opacity: 0;
+  transition: opacity 0.5s ease-in;
+
+  &.event-section-appear-active {
+    opacity: 1;
+  }
+}
+
+.event-section-enter {
+  opacity: 0;
+  transition: opacity 0.5s ease-in;
+  animation: move-in 0.5s ease-in;
+
+  &.event-section-enter-active {
+    opacity: 1;
+  }
+}
+
+.event-section-leave {
+  float: left;
+  opacity: 0.5;
+  transition: opacity 0.1s ease-out;
+  //animation: move-out 0.3s ease-out;
+
+  &.event-section-leave-active {
+    opacity: 0;
+  }
+}
+
+@keyframes move-in {
+  0% {
+    transform: translate(-25px, 0);
+  }
+  50% {
+    transform: translate(5px, 0);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+@keyframes move-out {
+  0% {
+    transform: translate(0px, 0);
+  }
+  //25% {
+  //  transform: translate(300px, 0);
+  //}
+  //50% {
+  //  transform: translate(800px, 0);
+  //}
+  100% {
+    transform: translate(75px, 0);
+  }
+}
